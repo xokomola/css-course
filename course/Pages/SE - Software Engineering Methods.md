@@ -33,9 +33,9 @@ https://easyretro.io/beginner-scrum-cerimonies-and-artifacts
 %%
 
 
-## XP
+## Extreme Programming (XP)
 
-Nowadays these are applied as a set of "hard" software engineering practices.
+XP defines a few typical software engineering practices which are often combined with a Scrum approach. There are also a few core values for software engineers in general.
 
 Core values:
 
