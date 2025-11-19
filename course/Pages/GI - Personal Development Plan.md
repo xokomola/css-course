@@ -1,3 +1,10 @@
+---
+aliases:
+  - PDP
+---
+
+[[LO2 - Software Quality]]
+
 Every semester we expect you to make a development mplan for yourself. This plan helps you and your coaches through this semester. It also forms the basis under coaching meetings.
 
 It is short, concise and flexible: it's a tool and not a fixed formal document. We expect you to adapt it regularly and at least every sprint. It is your personal "sprint" planning.

@@ -1,3 +1,7 @@
+---
+tags:
+  - a/LearningOutcome
+---
 You apply a maintainable software delivery process, which is compatible with the stakeholder's IT organization, and continuously aim for improving the software development process itself by applying best practices. 
 
 ## Further clarification 

@@ -1,3 +1,7 @@
+---
+tags:
+  - a/LearningOutcome
+---
 You take responsibility when solving ICT issues. You define and carry out your applied research using relevant selected methodologies and provide advice to your stakeholders in complex and uncertain contexts. You substantiate and validate future-oriented choices by use of law, ethical, intercultural, and sustainable arguments. 
 
 ## Further clarification 

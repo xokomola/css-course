@@ -1,3 +1,7 @@
+---
+tags:
+  - a/LearningOutcome
+---
 You adapt software systems with sustainable software quality by systematically addressing both functional and non-functional requirements within the current project while continuously validating system behavior against well-defined quality aspects.  
 
 ## Further clarification 

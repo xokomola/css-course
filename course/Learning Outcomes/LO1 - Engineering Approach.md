@@ -1,3 +1,7 @@
+---
+tags:
+  - a/LearningOutcome
+---
 You apply an engineering approach when creating software systems in unknown domains and with unknown systems and technologies. You execute progressive steps towards your goal by applying system thinking and informed decision making.  
 
 ## Further clarification 

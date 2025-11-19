@@ -1,3 +1,7 @@
+---
+tags:
+  - a/LearningOutcome
+---
 You independently formulate goals and actions that demonstrate leadership in your own long-term development as an ICT professional. You show that you have a professional attitude and can carry out these actions and achieve your goals, adjusting them as necessary. 
 
 ## Further clarification 
