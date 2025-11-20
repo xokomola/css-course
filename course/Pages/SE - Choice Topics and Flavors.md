@@ -3,7 +3,8 @@ During this semester you will choose other topics for research and experimentati
 To help you with the many options to choose from we describe some flavors or professional roles that help guide you.
 
 - [[SE - Security (flavor)]]
-- 
+- TODO (others)
+
 
 Even if a topic is not listed here. Discuss it with your teacher and together decide how to incorporate it in the [[GI - Personal Development Plan]].
 

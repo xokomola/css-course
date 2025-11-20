@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "course/Pages/SE - Software Engineering Methods.md",
+                "file": "course/Pages/GI - CSS Planning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SE - Software Engineering Methods"
+              "title": "GI - CSS Planning"
             }
           }
         ],
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "%%",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "course/Pages/SE - Software Engineering Methods.md",
+                "file": "course/Pages/LC - External Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SE - Software Engineering Methods"
+              "title": "Backlinks for LC - External Review"
             }
           },
           {
@@ -184,12 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "course/Pages/SE - Software Engineering Methods.md",
+                "file": "course/Pages/LC - External Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SE - Software Engineering Methods"
+              "title": "Outgoing links from LC - External Review"
             }
           },
           {
@@ -257,32 +257,32 @@
   },
   "active": "c3b540b9a7d8f078",
   "lastOpenFiles": [
+    "course/Pages/GI - CSS Team.md",
+    "course/Pages/GI - CSS Planning.md",
+    "course/Pages/SE - Software Engineering Wisdom.md",
+    "course/Pages/SE - Software Engineering Methods.md",
+    "course/Homepage.md",
+    "course/Pages/SE - Choice Topics and Flavors.md",
+    "course/Pages/SE - Security (flavor).md",
+    "course/Pages/LC - External Review.md",
+    "course/Pages/LC - Tips for Coaches.md",
+    "course/Pages/PD - Career Development.md",
+    "course/Pages/PD - Cultural Differences and Diversity.md",
+    "course/Pages/PD - Ethics.md",
     "course/Pages/PD - Sustainability.md",
     "course/Pages/PD - Research and Experimentation.md",
     "course/Pages/PD - Professional Development.md",
     "course/Pages/PD - Future-Oriented Organization.md",
-    "course/Pages/PD - Ethics.md",
-    "course/Pages/PD - Cultural Differences and Diversity.md",
-    "course/Pages/PD - Career Development.md",
     "README.md",
     "course/Modules.md",
     "GI - Overview of changes this semester.md",
     "course/Pages/GI - Group Challenges.md",
-    "course/Pages/SE - Security (flavor).md",
-    "course/Pages/SE - Software Engineering Methods.md",
-    "course/Pages/SE - Software Engineering Wisdom.md",
     "course/Pages/GI - General Information.md",
     "course/Pages/GI - Complex Software Systems.md",
     "course/Pages/GI - Learning Outcomes.md",
     "course/Pages/GI - Personal Development Plan.md",
-    "course/Pages/LC - External Review.md",
-    "course/Pages/LC - Tips for Coaches.md",
     "course/Pages/LC - Learning Community.md",
     "course/Pages/SE - Core Topics.md",
-    "course/Homepage.md",
-    "course/Pages/SE - Complex Software Engineering.md",
-    "course/Pages/SE - Choice Topics and Flavors.md",
-    "course/Pages/GI - CSS Planning.md",
     "course/Files/test.png",
     "course/Files/problem-space-solution-space.png",
     "course/Files/one-does-not-simply.png",

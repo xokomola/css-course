@@ -1,9 +1,4 @@
 These are the people responsible for this course.
-## Erik van der Schriek
-- Course Developer
-- Technical Coach
-- Professional Coach
-- Expertise
 ## Bartosz Paszkowski
 - Course Developer
 - Technical Coach
@@ -14,12 +9,22 @@ These are the people responsible for this course.
 - Technical Coach
 - Professional Coach
 - Expertise 
-## Nicole Zuurbier-Munnike
+## Erik van der Schriek
+- Course Developer
+- Technical Coach
+- Professional Coach
+- Expertise
+## Nicole Zuurbier-Munneke
 - Course Developer
 - Technical Coach
 - Professional Coach
 - Expertise 
 ## Ema Mladenovska
+- Course Developer
+- Technical Coach
+- Professional Coach
+- Expertise 
+## Marc van Grootel
 - Course Developer
 - Technical Coach
 - Professional Coach

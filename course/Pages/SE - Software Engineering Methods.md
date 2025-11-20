@@ -26,11 +26,11 @@ Artefacts:
 - Sprint Backlog
 - Increment (or sprint)
 
-%%
+<!--
 https://www.scrum.org/resources/scrum-guide
 https://easyretro.io/blog/what-are-the-5-scrum-ceremonies
 https://easyretro.io/beginner-scrum-cerimonies-and-artifacts
-%%
+-->
 
 
 ## Extreme Programming (XP)

@@ -15,15 +15,15 @@ Upshot: especially in the beginning of the project spend enough time understandi
 But even after the project has started, during the whole semester, you will often need to ask yourself: do we know what the right thing is, do we understand the problem or are we just building the wrong thing righter. Switching between problem space and solution space is constantly happening but knowing which space you and your team are in helps clarify the way you look at things.
 
 
-%% https://medium.com/@nikhilgupta08/problem-space-vs-solution-space-f970d4ace5c %%
+<!-- https://medium.com/@nikhilgupta08/problem-space-vs-solution-space-f970d4ace5c -->
 
 ![[problem-space-solution-space.png]]
 
 ## Big "R" research and little "r" research
 
-%%
+<!--
 https://helen.wilding.name/2024/04/19/from-small-r-research-to-big-r-research-and-back-again/
-%%
+-->
 
 During your previous semesters you have been introduced to the Dot Framework. You have been asked many times to write research reports. Knowing how to use these is an important skill. What is often not mentioned (or not enough) is the importance of small "r" research.
 
@@ -45,7 +45,7 @@ As teachers we like this one because it fosters a critical stance, critical thin
 
 ## First make the change easy, then make the easy change
 
-Kent Beck is the creator of a software engineering method called [[SE - Software Engineering Methods#XP|Extreme Programming]] (invented before [[SE - Software Engineering Methods#Scrum|Scrum]] took over). In a blog post he offered this small software engineering haiku:
+Kent Beck is the creator of a software engineering method called Extreme Programming (invented before Scrum took over). In a blog post he offered this small software engineering haiku:
 
 > For each hard change,
 > Make the change easy
@@ -68,7 +68,7 @@ There are many ways of reflecting on your work. Individually, as a group - throu
 
 - **What?** - What is the situation? What are the objective facts?
 - **So what?** - What does it mean for us? How do we make sense of it? Sometimes you need to ask it multiple times to get to the real causes of an issue.
-- **Now what** - If we know what it means how can we put it into practice, improve it? What are the next small steps we can take?
+- **Now what**? - If we know what it means how can we put it into practice, improve it? What are the next small steps we can take?
 
 Most of the methods of reflection boil down to these three questions. When something surprising happens, stop and ask yourself these questions. At some point this will become a habit which can guide you through difficult terrain, through complex problems.
 

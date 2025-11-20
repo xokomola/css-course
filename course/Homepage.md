@@ -1,9 +1,9 @@
 NOTE: copied current MC text, please REVIEW
 
-%%
+<!--
 Introduction Slides (to be updated?)
 https://fhict.instructure.com/courses/8356/files/1950017
-%%
+-->
 
 A complex software system is distinguished by its elaborate architecture. This typically involves a multitude of interacting components, often dispersed across various platforms and utilizing diverse technologies. Such systems are designed to manage large datasets, intricate logical processes, and necessitate a high degree of scalability, dependability, and ease of maintenance.
 
