@@ -1,6 +1,6 @@
 .DS_Store
 #exclusions for Erik's logseq
 /course/.git
-journals/
-pages/
-logseq/
+/course/journals/
+/course/pages/
+/course/logseq/
