@@ -3,6 +3,4 @@
 - [[GI - Portfolio and Portflow]]
 - [[GI - Personal Development Plan]]
 -
-- TEST WITH LOGSEQ
-- [[NEW TESTPAGE FOR LOGSEQ]]
 -
