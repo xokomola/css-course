@@ -1,0 +1,15 @@
+- The idea of this semester is that students work in a complex environment which can be complex on 2 axes
+	- unknown domain
+	- unknown technologies
+-
+- Unknown domain
+	- working in an unknown domain is achieved by students working on just 1 big project throughout the semester, provided by an external company. Students need to understand the domain itself, the used vocabulary in the domain, and to know which problems they are actually solving.
+- Unknown technologies
+	- working with technologies not yet known to students is achieved by having technical requirements & constraints from the companies, and having to deliver to an IT environment within a company. Also using technologies outside of the project contribute to discovering unknown technologies for the student.
+-
+- The prevent all of this possible complexity becoming chaos, we use the following approach
+	- use an engineering approach, which involves making very small steps (investigations/experiments/implementations) which are always validated to see if it gets the student closer to the goal of the project. This guides the learning of the student to slowly but surely become an expert in the domain.
+	- use measurements to be able to validate the small steps above. This applies to measuring aspects of the products which are created (am I delivering the right thing), and also measuring the processes being used to create those products (am I delivering the thing right).
+	- use sharing of experiences to create a community which embraces learning and working together, so mistakes can be learned from, and knowledge will be shared. This will be facilitated in the semester.
+-
+- Consequences of this approach is that all students have a unique path through the semester. To make this possible, every students creates a personal development plan, which is drawn together with the coaches.
