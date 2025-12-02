@@ -1,0 +1,49 @@
+- Deliverables
+	- Curriculum database: wk15/16 (Maaike)
+	- Design document (template?)
+	- CDB - via nieuwe software (Course Guide)
+	- Studienavigator (? hoeft nu niet)
+	- Canvas Cursus
+- Openstaande vragen
+	- Of AI genoeg verwerkt is
+	- (eerste feedback van Ruben is al in document verwerkt - zie Teams)
+	- Hoe om te gaan met eindbeoordeling en Innovations Insight
+- Inhoud cursus
+	- Outline_Semester_Full_Stack
+		- Delen we cursus in op thema's of fases? Thema's
+	- ! Review core/choice topics verhaal Patrick / Ema
+		- Bartosz, Marc
+- PDP - ontwikkelplan
+	- Patrick: PDR vroeger, ervaring mee
+	- Wij doen een voorzet en kijken waar Fontys zelf mee komt (Maaike)
+	- Moet uiteindelijk ook naar Studycoach
+- Werkwijze
+	- Trello gebruiken
+	- Kaartjes vullen met outline/onderwerpen
+	- Schrijven van topics: in Teams, Marc is editor en neemt over in broncode
+	- Eric, Patrick etc. kunnen evt. ook in broncode (GitHub) werken
+	- Marc genereert tussentijdse PDFs voor review van materiaal
+- Assessments
+	- ST: Joeri gesproken
+	- 4-ogen principe moet gevolgd worden
+	- 3 formatieve momenten
+	- Portfolio assessment
+	- Assessment pagina in Canvas cursus is nog niet voldoende
+		- Planning van portfolio momenten
+		- Wat is de weekplanning
+- Hoe krijg je groepen goed aan het werk
+	- Patrick (013) heeft andere ervaringen dan 040
+		- Op locatie is altijd GP (meer nadruk op GP)
+		- Vaste structuur van sprint (week 1, 2, 3)
+			- Vaste kennisdeel momenten
+		- Individuele komt wat meer op achtergrond
+	- Wat willen/kunnen wij daar aan doen?
+	- Hoe gaat het contact met opdrachtgevers
+		- Patrick: dit zou nog wel wat beter kunnen
+		- Soms nodigen bedrijven studenten uit
+	- Werkwijze van Scrum/Agile gebruiken als scaffolding
+- Volgende week
+	- Terugkoppeling leeruitkomsten 
+	- Allen:  gebruik Trello kaartjes om inhoud te bepalen
+	- MG: ga verder met PDF export en Canvas import
+	- 

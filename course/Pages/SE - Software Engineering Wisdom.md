@@ -1,4 +1,6 @@
-How to master the "secret handshake" of professional software engineers? By using the right memes at the right moment. But don't be fooled. Each of these memes resulted from many years of work in the trenches. Those that have become teachers can probably show you their battle scars. But to keep things light they often use these enigmatic quips of wisdom. Not as rules to be blindly followed but as guide through unknown territory.
+How to master the "secret handshake" of professional software engineers? By using the right memes at the right moment. But don't be fooled. Each of these memes resulted from many years of work in the trenches. 
+
+Those that have become teachers can probably show you their battle scars. But to keep things light they often use these nuggets of wisdom. Not as rules to be blindly followed but as guide through unknown territory.
 
 ## One does not simply ...
 
@@ -51,11 +53,13 @@ Kent Beck is the creator of a software engineering method called Extreme Program
 > Make the change easy
 > (warning, this may be hard)
 > then make the easy change
+> -- Kent Beck
 
 The most common explanation is that this is a plea for [preparing for code refactoring](https://martinfowler.com/articles/preparatory-refactoring-example.html). First work on cleaning up, reorganizing the code (which can be rather difficult and doesn't seem to get you closer to the goal of making the actual change) but in the end turns out to make the actual change almost trivial.
 
 Kent thought this was such an important approach that he wrote a whole book about it: [Tidy First?](https://www.oreilly.com/library/view/tidy-first/9781098151232).
 
+![[tidy-first-book.png]]
 ## Premature optimization is the root of all evil
 
 This is a very common and causes a lot of time-waisting. Another way of saying this is "First make it work, then make it better or faster". It also causes unnecessary complexity. Trying to be too clever and making your code harder to read, debug and maintain.

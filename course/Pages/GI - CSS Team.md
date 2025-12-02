@@ -1,4 +1,9 @@
 These are the people responsible for this course.
+
+- Dennis Cools
+- Frank Coenen
+- Maja Pesic
+- ...
 ## Bartosz Paszkowski
 - Course Developer
 - Technical Coach
