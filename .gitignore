@@ -4,3 +4,5 @@
 /course/journals/
 /course/pages/
 /course/logseq/
+#exclusions for accidentally opening it with IDE
+.idea/
