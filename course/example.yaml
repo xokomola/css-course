@@ -1,0 +1,6 @@
+foo: 10
+baz: true
+bar: 
+  - item 1
+  - item 2
+  - item 3

@@ -1,3 +1,8 @@
+---
+tags:
+  - a/Note
+---
+
 - Deliverables
 	- Curriculum database: wk15/16 (Maaike)
 	- Design document (template?)
