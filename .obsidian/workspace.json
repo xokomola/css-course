@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bab390710a692a93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "course/Modules.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modules"
-            }
-          },
-          {
-            "id": "7ffb022d9ec13611",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "course/Modules.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Modules"
-            }
-          },
-          {
             "id": "c2adc23e12f3b063",
             "type": "leaf",
             "state": {
@@ -48,93 +20,8 @@
               "icon": "lucide-file",
               "title": "Modules"
             }
-          },
-          {
-            "id": "246f919309791a13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "course/Pages/SE - Software Engineering Wisdom.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SE - Software Engineering Wisdom"
-            }
-          },
-          {
-            "id": "c0a83839804ee5d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "course/Modules.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modules"
-            }
-          },
-          {
-            "id": "c3b540b9a7d8f078",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "course/Pages/SE - Complex Software Engineering.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SE - Complex Software Engineering"
-            }
-          },
-          {
-            "id": "4a7c364652d67afb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "course/Pages/GI - Feedback and FeedPulse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GI - Feedback and FeedPulse"
-            }
-          },
-          {
-            "id": "09729d6906222aca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "04333fd98f6de983",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "course/Pages/GI - Overview of changes this semester.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GI - Overview of changes this semester"
-            }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -297,40 +184,40 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "04333fd98f6de983",
+  "active": "c2adc23e12f3b063",
   "lastOpenFiles": [
-    "course/Pages/GI - Tips for coaches.md",
+    "course/Pages/PD - Cultural Differences and Diversity.md",
+    "course/Modules.md",
+    "course/Pages/Third Portfolio Delivery.md",
+    "course/Pages/Software Maintenance.md",
+    "course/Pages/SM - Introduction.md",
+    "course/Pages/SM - Fitting organizational needs.md",
+    "course/Pages/SM - DevSecOps.md",
+    "course/Pages/Second Portfolio Delivery.md",
+    "course/Pages/SE - Personal Flavor Topics.md",
+    "course/Pages/Quality Assurance.md",
+    "course/Pages/QA - Monitoring & Logging.md",
+    "course/Pages/QA - Introduction.md",
+    "course/Pages/QA - Determining Quality Constraints.md",
+    "course/Pages/PS - System Thinking.md",
+    "course/Pages/PS - Sustainability & Transferability.md",
+    "course/Pages/PS - Software Engineering Behaior.md",
+    "course/Pages/PS - Professional Standard.md",
+    "PF - What are Personal Flavor Topics?.md",
+    "course/Pages/PS - Intercultural.md",
+    "course/Pages/PS - Ethics.md",
+    "course/Pages/PS - Diagnostic Troubleshooting.md",
+    "course/Pages/PS - Applied Research.md",
+    "course/Pages/PS - Agile Development in a complex environment.md",
+    "course/Pages/Portfolio Delivery.md",
+    "course/Pages/PF - What are Personal Flavor Topics?.md",
+    "course/Pages/PF - Infrastructure & Deployment.md",
     "course/example.yaml",
     "course/example.json",
     "course/example.csv",
-    "course/Markup Test.md",
     "course/Files/tidy-first-book.png",
     "course/Files/feedpulse-smileys.png",
     "course/Files/feedpulse-logo.png",
-    "Meeting notes.md",
-    "course/Pages/GI - Learning Outcomes.md",
-    "course/Pages/GI - Group Challenges.md",
-    "course/Pages/GI - General Information.md",
-    "course/Modules.md",
-    "README.md",
-    "course/Pages/GI - Feedback and FeedPulse.md",
-    "course/Pages/GI - Portfolio and Portflow.md",
-    "course/Pages/GI - Personal Development Plan.md",
-    "course/Pages/SE - Complex Software Engineering.md",
-    "course/Pages/PD - Career Development.md",
-    "course/Pages/PD - Sustainability.md",
-    "course/Pages/SE - Choice Topics and Flavors.md",
-    "course/Pages/SE - Core Topics.md",
-    "course/Pages/SE - Software Engineering Wisdom.md",
-    "course/Pages/GI - CSS Planning.md",
-    "course/Learning Outcomes/LO4 - Professional Standard.md",
-    "course/Learning Outcomes/LO3 - Software Maintenance.md",
-    "course/Learning Outcomes/LO2 - Software Quality.md",
-    "course/Pages/LC - External Review.md",
-    "course/Pages/GI - CSS Team.md",
-    "course/Pages/GI - Overview of changes this semester.md",
-    "course/Pages/SE - Software Engineering Methods.md",
-    "course/Homepage.md",
     "course/Files/test.png",
     "course/Files/problem-space-solution-space.png",
     "course/Files/one-does-not-simply.png",

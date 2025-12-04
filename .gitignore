@@ -2,7 +2,6 @@
 #exclusions for Erik's logseq
 /course/.git
 /course/journals/
-/course/pages/
 /course/logseq/
 #exclusions for accidentally opening it with IDE
 .idea/
