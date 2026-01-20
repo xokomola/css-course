@@ -1,6 +1,10 @@
 ---
 tags:
   - a/LearningOutcome
+section: Learning Outcomes
+exclude: true
+status: DONE
+type: Formal
 ---
 You apply a maintainable software delivery process, which is compatible with the stakeholder's IT organization, and continuously aim for improving the software development process itself by applying best practices. 
 

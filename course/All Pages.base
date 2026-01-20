@@ -1,0 +1,133 @@
+views:
+  - type: table
+    name: All
+    filters:
+      and:
+        - file.hasProperty("status")
+    order:
+      - file.name
+      - status
+      - section
+      - type
+      - exclude
+    columnSize:
+      file.name: 234
+  - type: table
+    name: General
+    filters:
+      and:
+        - section == "General"
+    order:
+      - file.name
+      - status
+      - type
+      - exclude
+      - publish
+  - type: table
+    name: Flavors
+    filters:
+      and:
+        - section == "Flavors"
+    order:
+      - file.name
+      - status
+      - type
+      - exclude
+    columnSize:
+      file.name: 284
+  - type: table
+    name: Homepage
+    filters:
+      and:
+        - section == "Homepage"
+    order:
+      - file.name
+      - status
+      - type
+      - exclude
+  - type: table
+    name: Learning Community
+    filters:
+      and:
+        - section == "Learning Community"
+    order:
+      - file.name
+      - status
+      - type
+      - exclude
+    columnSize:
+      file.name: 166
+  - type: table
+    name: Personal Development
+    filters:
+      and:
+        - section == "Personal Development"
+    order:
+      - file.name
+      - status
+      - type
+      - exclude
+    columnSize:
+      file.name: 271
+  - type: table
+    name: Professional Standard
+    filters:
+      and:
+        - section == "Professional Standard"
+    order:
+      - file.name
+      - status
+      - type
+      - exclude
+  - type: table
+    name: Software Engineering
+    filters:
+      and:
+        - section == "Software Engineering"
+    order:
+      - file.name
+      - status
+      - type
+      - exclude
+    columnSize:
+      file.name: 244
+  - type: table
+    name: Software Architecture
+    filters:
+      and:
+        - section == "Software Architecture"
+    order:
+      - file.name
+      - status
+      - type
+      - exclude
+  - type: table
+    name: Software Maintenance
+    filters:
+      and:
+        - section == "Software Maintenance"
+    order:
+      - file.name
+      - status
+      - type
+      - exclude
+  - type: table
+    name: Software Quality
+    filters:
+      and:
+        - section == "Software Quality"
+    order:
+      - file.name
+      - status
+      - type
+      - exclude
+  - type: table
+    name: Learning Outcomes
+    filters:
+      and:
+        - section == "Learning Outcomes"
+    order:
+      - file.name
+      - status
+      - type
+      - exclude

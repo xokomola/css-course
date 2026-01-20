@@ -1,7 +1,6 @@
 ---
-category: Recycle
+section: Software Architecture
 exclude: true
-section: General
 type: Informational
 status: TODO
 ---

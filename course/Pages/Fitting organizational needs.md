@@ -1,0 +1,10 @@
+---
+status: TODO
+source: Software Maintenance.docx
+source-date: 2025-12-18T00:00:00
+source-loc: 7. Core Skills - Complex Software Engineering
+publish: true
+exclude: false
+section: Software Maintenance
+type: Informational
+---

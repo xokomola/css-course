@@ -1,5 +1,0 @@
--
-- [[SE - Core Topics]]
-- [[SE - Choice Topics and Flavors]]
-- [[SE - Software Engineering Methods]]
-- [[SE - Software Engineering Wisdom]]

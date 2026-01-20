@@ -1,5 +1,0 @@
-- [[GI - CSS Planning]]
-- [[GI - CSS Team]]
-- [[GI - Portfolio and Portflow]]
-- [[GI - Personal Development Plan]]
-- [[GI - Tips for coaches]]
