@@ -21,6 +21,10 @@ status: INFO
 	- [[Semester Planning]]
 	- [[Clarifications Learning Outcomes]] RENAMED
 	- [[Personal Development Plan]]
+- General Information
+	- [[Feedback and FeedPulse]]
+	- [[Available Infrastructure & Tools]]
+	- Need extra support?
 - Portfolio & Assessment Process
 	- [[Portfolio and Portflow]]
 	- Portflow at Fontys ICT (EN) IMPORTED
@@ -51,7 +55,6 @@ status: INFO
 	- [[Core Topics]]
 	- [[Long-term development]]
 	- [[Software Engineering Methods]]
-	- [[Feedback and FeedPulse]]
 	- [[Generative AI Usage Guidelines]]
 	- [[Ethics]]
 	- [[Software Engineering Wisdom]]
