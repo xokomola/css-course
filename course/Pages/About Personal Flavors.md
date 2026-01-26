@@ -29,3 +29,9 @@ The personal flavor projects are there for a few reasons, it offers:
 Within this context, you work out at least two experiments following an applied research methodology (hint: DOT-framework).  Your activities will aim at gaining knowledge to solve a specific question, applying it, and validating the end results. These new insights will contribute to the experience in learning outcomes: software engineering, software quality, and software maintenance 
 
 Note: Although a hint is given to the DOT framework, we do not expect your time to go into large theoretical reports. You should demonstrate that you can set up and perform experiments by fast prototyping your new ideas while following a methodological approach.   This is another demonstration of your engineering mindset. 
+
+### Finding topics
+
+- The [Thoughtworks Technology Radar](https://www.thoughtworks.com/radar/search) is a great resources. They track software engineering techniques, platforms, tools, languages and frameworks. They also assess how relevant or new they are. For each topic (more than 4000 topic in the database) they have a short description.
+
+Even if a topic is not listed here. Discuss it with your teacher and together decide how to incorporate it in the [[Personal Development Plan]].

@@ -9,51 +9,56 @@ date: 2025-11-12
 exclude: true
 status: INFO
 ---
-- General Information
+- Teacher guide
+	- [[Teachers Overview]]
+	- [[Tips for coaches]]
+	- [[Building a Learning Community]]
+- Semester Information
 	- [[About changes this semester]]
-	- [[Course Team]]
-	- [[Semester Planning]]
-	- [[Portfolio and Portflow]]
-	- [[Feedback and FeedPulse]]
-	- [[Personal Development Plan]]
+	- [[How you semester is organized]] RENAMED
+	- [[Group Project & Experiments Explained]] ADDED
 	- [[Group Challenges]]
-	- [[Generative AI Usage Guidelines]]
-- Other information
-	- For coaches
-		- [[Teachers Overview]]
-		- [[Tips for coaches]]
-		- [[Building a Learning Community]]
-	- For students
-		- [[Students Overview]]
-		- [[Making your semester a success]]
-		- [[Catching up module]]
-- Portfolio Deliveries
+	- [[Semester Planning]]
+	- [[Clarifications Learning Outcomes]] RENAMED
+	- [[Personal Development Plan]]
+- Portfolio & Assessment Process
+	- [[Portfolio and Portflow]]
+	- Portflow at Fontys ICT (EN) IMPORTED
+	- [[Semester Assessment Process]] ADDED
+	- [[Contribution of projects & experiments to your LOs]] ADDED
+	- [[Portfolio Delivery]] ADDED
 	- First Portfolio Delivery
 	- Second Portfolio Delivery
     - Third Portfolio Delivery
     - Final Portfolio Delivery
-- Personal Development
-	- [[Setting Goals & Taking Action]]
-	- [[Long-term development]]
-	- [[Career Development]]
-	- [[Graduation Preparation]]
-	- [[Giving and Receiving Feedback]]
+- Core Software Engineering
+	- [[About Core Knowledge]] ADDED
+- Personal Flavors
+	- [[About Personal Flavors]] MERGED
 - Professional Standard
 	- [[Applied Research]]
 	- [[Intercultural]]
-	- [[Ethics]]
+	- [[Giving and Receiving Feedback]]
 	- [[Sustainability and Transferability]]
-- Software Engineering
+- Personal Development
+	- [[Career Development]]
+	- [[Graduation Preparation]]
+	- [[Setting Goals & Taking Action]]
+- Catch-up Module
+	- [[Catching up module]]
+- Removed pages
+	- [[Course Team]]
 	- [[Core Topics]]
-	- [[Choice Topics and Flavors]]
+	- [[Long-term development]]
 	- [[Software Engineering Methods]]
-- Software Quality
+	- [[Feedback and FeedPulse]]
+	- [[Generative AI Usage Guidelines]]
+	- [[Ethics]]
+	- [[Software Engineering Wisdom]]
 	- [[Introduction Software Quality]]
 	- [[Determining Quality Constraints]]
 	- [[Quality Validation]]
-- Software Maintenance
 	- [[DevOps]]
 	- [[Monitoring & Logging]]
 	- [[Fitting organizational needs]]
-- Extra pages
-	- [[Software Engineering Wisdom]]
+

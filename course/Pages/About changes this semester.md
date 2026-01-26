@@ -7,6 +7,6 @@ exclude: false
 ---
 
 [[Teachers Overview]]
-[[Students Overview]]
+[[How you semester is organized]]
 
 TODO: write bullet list with changes and rationale
