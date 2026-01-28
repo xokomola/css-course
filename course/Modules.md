@@ -15,11 +15,11 @@ status: INFO
 	- [[Building a Learning Community]]
 - Semester Information
 	- [[About changes this semester]]
-	- [[How you semester is organized]]
-	- [[Group Project & Experiments Explained]]
+	- [[How you semester is organized]] RENAMED
+	- [[Group Project & Experiments Explained]] ADDED
 	- [[Group Challenges]]
 	- [[Semester Planning]]
-	- [[Clarifications Learning Outcomes]]
+	- [[Clarifications Learning Outcomes]] RENAMED
 	- [[Personal Development Plan]]
 - General Information
 	- [[Feedback and FeedPulse]]
@@ -27,18 +27,24 @@ status: INFO
 	- Need extra support?
 - Portfolio & Assessment Process
 	- [[Portfolio and Portflow]]
-	- Portflow at Fontys ICT (EN)
-	- [[Semester Assessment Process]]
-	- [[Contribution of projects & experiments to your LOs]]
-	- [[Portfolio Delivery]]
+	- Portflow at Fontys ICT (EN) IMPORTED
+	- [[Semester Assessment Process]] ADDED
+	- [[Contribution of projects & experiments to your LOs]] ADDED
+	- [[Portfolio Delivery]] ADDED
 	- First Portfolio Delivery
 	- Second Portfolio Delivery
     - Third Portfolio Delivery
     - Final Portfolio Delivery
 - Core Software Engineering
-	- [[About Core Knowledge]]
+	- [[About Core Knowledge]] ADDED
 - Personal Flavors
 	- [[About Personal Flavors]]
+	- [[Domain - Cyber Security]]
+	- [[Domain - Data Driven Engineering]]
+	- [[Domain - Cloud Native Engineering]]
+	- [[Domain - Green Software Engineering]]
+	- [[Domain - High Performance Engineering]]
+	- [[Domain - Agentic Software Engineering]]
 - Professional Standard
 	- [[Applied Research]]
 	- [[Intercultural]]
