@@ -34,6 +34,16 @@ Note: Although a hint is given to the DOT framework, we do not expect your time 
 
 ### Finding topics
 
-- Besides the suggestions in the Canvas course, the [Thoughtworks Technology Radar](https://www.thoughtworks.com/radar/search) is a great resources. They track software engineering techniques, platforms, tools, languages and frameworks. They also assess how relevant or new they are. For each topic (more than 4000 topic in the database) they have a short description.
+Topic suggestions on Canvas
+
+- [[Domain - Cyber Security]]]
+- [[Domain - High Performance Engineering]]
+- [[Domain - Agentic Software Engineering]]
+- [[Domain - Data Driven Engineering]]
+- [[Domain - Cloud Native Engineering]]
+- [[Domain - Green Software Engineering]]
+
+Besides the suggestions in the Canvas course, the [Thoughtworks Technology Radar](https://www.thoughtworks.com/radar/search) is a great resources. They track software engineering techniques, platforms, tools, languages and frameworks. They also assess how relevant or new they are. For each topic (more than 4000 topic in the database) they have a short description.
 
 Even if a topic is not listed here. Discuss it with your teacher and together decide how to incorporate it in the [[Personal Development Plan]].
+
