@@ -1,7 +1,7 @@
 ---
 tags:
   - a/CourseHomePage
-status: TODO
+status: IMPORTED
 publish: true
 exclude: false
 section: Homepage
