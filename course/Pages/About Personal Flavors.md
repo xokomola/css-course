@@ -23,6 +23,7 @@ The personal flavor projects are there for a few reasons, it offers:
 - The possibility to explore those subjects related to software engineering, which you are interested in. 
 - A demonstration of your personal skills and abilities in another context/problem setting. 
 - An environment in which you further develop your software engineering, software quality, and software maintenance skills within a very specific domain of your own choice.   
+- Practicing the experimental mindset we like to see by fast prototyping your ideas: Idea -> Build up some Knowledge -> Prototype -> Evaluate -> Advice. 
 
 ## How
 
