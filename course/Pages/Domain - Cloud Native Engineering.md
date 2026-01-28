@@ -4,8 +4,7 @@ section: Personal Flavors
 type: Informational
 exclude: false
 ---
-
-## Domain: Cloud Native Engineering
+## ☁️ Domain: Cloud Native Engineering
 ## _Building for the Infinite: Scalability and Resilience_
 
 ## What

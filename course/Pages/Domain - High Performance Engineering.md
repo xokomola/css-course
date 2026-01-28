@@ -4,7 +4,6 @@ section: Personal Flavors
 type: Informational
 exclude: false
 ---
-
 ## 🚀 Domain: High-Performance Engineering
 ## Engineering for Extreme Scale and Low Latency
 

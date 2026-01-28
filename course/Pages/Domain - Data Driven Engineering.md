@@ -4,7 +4,6 @@ section: Personal Flavors
 type: Informational
 exclude: false
 ---
-
 ## 📊 Domain: Data-Driven Engineering
 ## _Designing Applications as Data Products_
 

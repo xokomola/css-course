@@ -4,7 +4,6 @@ section: Personal Flavors
 type: Informational
 exclude: false
 ---
-
 ## 🌿 Domain: Green Software Engineering
 ## _Designing for Carbon Efficiency and Environmental Durability_
 

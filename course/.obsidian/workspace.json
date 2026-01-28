@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modules.md",
+                "file": "Pages/Catching up module.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modules"
+              "title": "Catching up module"
             }
           },
           {
@@ -229,20 +229,21 @@
   },
   "active": "60558c15ffcd8fe6",
   "lastOpenFiles": [
+    "Pages/Intercultural.md",
+    "Pages/Domain - Cloud Native Engineering.md",
+    "Pages/Domain - Cyber Security.md",
+    "Pages/Domain - High Performance Engineering.md",
+    "Pages/Domain - Green Software Engineering.md",
+    "Pages/Domain - Data Driven Engineering.md",
+    "Pages/About Personal Flavors.md",
+    "Modules.md",
     "Pages/DevOps.md",
     "Pages.md",
     "Empty Pages/Determining Architectural Constraints.md",
     "Pages/Determining Quality Constraints.md",
     "Pages/Semester Assessment Process.md",
-    "Modules.md",
-    "Pages/Domain - Cloud Native Engineering.md",
     "Pages/Domain - Agentic Software Engineering.md",
     "Pages/Catching up module.md",
-    "Pages/Domain - Cyber Security.md",
-    "Pages/Domain - Data Driven Engineering.md",
-    "Pages/Domain - Green Software Engineering.md",
-    "Pages/Domain - High Performance Engineering.md",
-    "Pages/About Personal Flavors.md",
     "New Pages/Portflow at Fontys ICT (EN).md",
     "New Pages/Need extra support.md",
     "New Pages/Homepage.md",
@@ -255,7 +256,6 @@
     "Pages/Group Project & Experiments Explained.md",
     "Pages/Portfolio Delivery.md",
     "Pages/Choice Topics and Flavors.md",
-    "Pages/Clarifications Learning Outcomes.md",
     "Files/29-FON-NL_CARD WIT-ZW.png",
     "Files/29-FON-NL_LOGO-RGB.png",
     "New Pages",
