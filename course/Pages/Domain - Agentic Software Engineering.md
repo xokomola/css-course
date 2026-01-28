@@ -6,7 +6,7 @@ exclude: false
 ---
 
 ## 🤖 Domain: Agentic Software Engineering
-## _From Writing Code to Orchestrating Intelligence
+## _From Writing Code to Orchestrating Intelligence_
 
 
 ## What
@@ -23,7 +23,7 @@ Moving from AI "Copilots" to autonomous **AI Agents** that take initiative—rea
 
 In 2026, the bottleneck is no longer "writing code" but **"managing complexity."** Your value is shifting to **System Orchestrator**, where you maintain the **durability** of a system that is partly built and managed by AI agents.
 
-## How? (4 Research Tracks)
+## How (4 Research Tracks)
 
 1.  **Autonomous Maintenance Loops:** Build an agentic pipeline (using *LangGraph*) that monitors build logs, identifies failures, and autonomously submits a **Pull Request (PR)** with the fix.
     * *Quality Criteria:* Autonomous Fix Rate & Regression Ratio.

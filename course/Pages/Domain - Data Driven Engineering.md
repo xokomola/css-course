@@ -21,7 +21,7 @@ Focuses on building applications where data flow, integrity, and real-time proce
 
 By 2026, the era of batch jobs is ending. **Real-Time Streaming** is the baseline. As AI adoption skyrockets, the "garbage in, garbage out" problem is the #1 hurdle. This domain focuses on the **maintainability** of data foundations.
 
-## How? (4 Research Tracks)
+## How (4 Research Tracks)
 
 1.  **Architectural Patterns (Lambda vs. Kappa):** Prototype a system handling both real-time and historical data. Prove which architecture is more **maintainable** for your context.
     * *Quality Criteria:* Data Freshness & Code Duplication.

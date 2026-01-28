@@ -17,11 +17,11 @@ Building **Carbon-Efficient** applications—providing maximum value while consu
 * **The Systems Thinker:** Understand how software decisions impact power grids and hardware lifecycles.
 * **The Sustainability Architect:** Build "Carbon Aware" software that adapts based on renewable energy availability.
 
-## Why?
+## Why
 
 In 2026, sustainability is a core non-functional requirement. Large firms are legally required to report **Scope 3 emissions**. This domain introduces **Carbon Awareness** as a critical **durability** factor for the digital future.
 
-## How? (4 Research Tracks)
+## How (4 Research Tracks)
 
 1.  **Carbon-Aware Scheduling:** Shift non-urgent tasks (like backups) to times when the local grid is powered by renewables using a *Carbon Intensity API*.
     * *Quality Criteria:* Carbon Avoidance % & Task Completion SLO.

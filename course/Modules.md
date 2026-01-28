@@ -15,7 +15,7 @@ status: INFO
 	- [[Building a Learning Community]]
 - Semester Information
 	- [[About changes this semester]]
-	- [[How you semester is organized]]
+	- [[How your semester is organized]]
 	- [[Group Project & Experiments Explained]]
 	- [[Group Challenges]]
 	- [[Semester Planning]]
@@ -56,7 +56,7 @@ status: INFO
 	- [[Setting Goals & Taking Action]]
 - Catch-up Module
 	- [[Catching up module]]
-- Removed pages
+- Removed pages (these are not included in the Canvas Modules page - summary of the core topics should be included in About Core Knowledge)
 	- [[Course Team]]
 	- [[Core Topics]]
 	- [[Long-term development]]
