@@ -38,7 +38,13 @@ status: INFO
 - Core Software Engineering
 	- [[About Core Knowledge]] ADDED
 - Personal Flavors
-	- [[About Personal Flavors]] MERGED
+	- [[About Personal Flavors]]
+	- [[Domain - Cyber Security]]
+	- [[Domain - Data Driven Engineering]]
+	- [[Domain - Cloud Native Engineering]]
+	- [[Domain - Green Software Engineering]]
+	- [[Domain - High Performance Engineering]]
+	- [[Domain - Agentic Software Engineering]]
 - Professional Standard
 	- [[Applied Research]]
 	- [[Intercultural]]
