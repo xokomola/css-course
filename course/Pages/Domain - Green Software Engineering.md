@@ -1,19 +1,29 @@
+---
+status: NEW
+section: Personal Flavors
+type: Informational
+exclude: false
+---
 
 ## 🌿 Domain: Green Software Engineering
-### *Designing for Carbon Efficiency and Environmental Durability*
+## _Designing for Carbon Efficiency and Environmental Durability_
 
-**What?**
+## What
+
 Building **Carbon-Efficient** applications—providing maximum value while consuming the least amount of energy possible. You treat "Energy" as a limited resource like RAM or CPU.
 
 **Is this for you?**
+
 * **The Optimization Specialist:** Squeeze every bit of efficiency out of code to reduce waste.
 * **The Systems Thinker:** Understand how software decisions impact power grids and hardware lifecycles.
 * **The Sustainability Architect:** Build "Carbon Aware" software that adapts based on renewable energy availability.
 
-**Why?**
+## Why?
+
 In 2026, sustainability is a core non-functional requirement. Large firms are legally required to report **Scope 3 emissions**. This domain introduces **Carbon Awareness** as a critical **durability** factor for the digital future.
 
-**How? (4 Research Tracks)**
+## How? (4 Research Tracks)
+
 1.  **Carbon-Aware Scheduling:** Shift non-urgent tasks (like backups) to times when the local grid is powered by renewables using a *Carbon Intensity API*.
     * *Quality Criteria:* Carbon Avoidance % & Task Completion SLO.
     * *Source:* [Green Software Foundation: Carbon Aware SDK](https://grnsft.org/sdk)

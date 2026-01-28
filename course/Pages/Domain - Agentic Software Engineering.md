@@ -1,19 +1,30 @@
+---
+status: NEW
+section: Personal Flavors
+type: Informational
+exclude: false
+---
 
 ## 🤖 Domain: Agentic Software Engineering
-### *From Writing Code to Orchestrating Intelligence*
+## _From Writing Code to Orchestrating Intelligence
 
-**What?**
+
+## What
+
 Moving from AI "Copilots" to autonomous **AI Agents** that take initiative—reasoning about requirements, using tools (terminals, debuggers), and maintaining context across the entire SDLC.
 
 **Is this for you?**
+
 * **The Workflow Architect:** You want to design how AI and humans collaborate to move from a "raw idea" to a "production-ready feature."
 * **The Test Strategist:** You want to build agents that "hunt" for bugs autonomously rather than just running static test scripts.
 * **The Refactoring Specialist:** You are interested in how AI can help manage and modernize **Technical Debt** in large codebases.
 
-**Why?**
+## Why
+
 In 2026, the bottleneck is no longer "writing code" but **"managing complexity."** Your value is shifting to **System Orchestrator**, where you maintain the **durability** of a system that is partly built and managed by AI agents.
 
-**How? (4 Research Tracks)**
+## How? (4 Research Tracks)
+
 1.  **Autonomous Maintenance Loops:** Build an agentic pipeline (using *LangGraph*) that monitors build logs, identifies failures, and autonomously submits a **Pull Request (PR)** with the fix.
     * *Quality Criteria:* Autonomous Fix Rate & Regression Ratio.
     * *Source:* [arXiv: Agentic Software Engineering Roadmap](https://arxiv.org/html/2509.06216v1)

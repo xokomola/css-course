@@ -1,19 +1,29 @@
+---
+status: NEW
+section: Personal Flavors
+type: Informational
+exclude: false
+---
 
 ## 📊 Domain: Data-Driven Engineering
-### *Designing Applications as Data Products*
+## _Designing Applications as Data Products_
 
-**What?**
+## What
+
 Focuses on building applications where data flow, integrity, and real-time processing are the primary design drivers. It involves engineering pipelines that serve insights at massive scale.
 
 **Is this for you?**
+
 * **The Pipeline Architect:** Move millions of events from point A to B without losing a bit.
 * **The Quality Purist:** Build systems that automatically "quarantine" bad data before it ruins a dashboard.
 * **The Product-Minded Dev:** Treat "Data-as-a-Product" for other internal services.
 
-**Why?**
+## Why
+
 By 2026, the era of batch jobs is ending. **Real-Time Streaming** is the baseline. As AI adoption skyrockets, the "garbage in, garbage out" problem is the #1 hurdle. This domain focuses on the **maintainability** of data foundations.
 
-**How? (4 Research Tracks)**
+## How? (4 Research Tracks)
+
 1.  **Architectural Patterns (Lambda vs. Kappa):** Prototype a system handling both real-time and historical data. Prove which architecture is more **maintainable** for your context.
     * *Quality Criteria:* Data Freshness & Code Duplication.
     * *Source:* [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/)

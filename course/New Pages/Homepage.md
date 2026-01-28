@@ -3,7 +3,7 @@ tags:
   - a/CourseHomePage
 status: IMPORTED
 publish: true
-exclude: false
+exclude: true
 section: Homepage
 ---
 NOTE: copied current MC text, please REVIEW

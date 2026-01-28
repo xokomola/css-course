@@ -1,8 +1,15 @@
+---
+status: NEW
+section: Personal Flavors
+type: Informational
+exclude: false
+---
 
 ## 🚀 Domain: High-Performance Engineering
-### *Engineering for Extreme Scale and Low Latency*
+## Engineering for Extreme Scale and Low Latency
 
-**What?**
+## What
+
 Maximizing system throughput and minimizing latency under heavy load. It moves beyond "making it work" to "making it work at scale" for millions of concurrent operations.
 
 **Is this for you?**
@@ -10,10 +17,12 @@ Maximizing system throughput and minimizing latency under heavy load. It moves b
 * **The Data Architect:** You want to design systems that query terabytes of data in milliseconds.
 * **The Distributed Systems Builder:** You want to solve data consistency and synchronization across global servers.
 
-**Why?**
+## Why
+
 With 8K streaming and real-time AI, generic software is no longer enough. Performance is a core feature. Researching this domain proves you can build **durable** systems that remain responsive during viral traffic spikes.
 
-**How? (4 Research Tracks)**
+## How (4 Research Tracks)
+
 1.  **Latency in Distributed Caching:** Compare Write-through vs. Write-behind using *Redis*. Prototype a multi-tier cache to survive "Cache Stampedes."
     * *Quality Criteria:* P99 Latency (< 50ms) & Cache Hit Ratio.
     * *Source:* [Redis Optimization Guide](https://redis.io/docs/management/optimization/)

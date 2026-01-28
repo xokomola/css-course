@@ -1,7 +1,14 @@
+---
+status: NEW
+section: Personal Flavors
+type: Informational
+exclude: false
+---
 ## 🛡️ Domain: Cyber Security
-### *Engineering Resilient Systems through Architectural Rigor*
+## _Engineering Resilient Systems through Architectural Rigor_
 
-**What?**
+## What
+
 This domain treats security as a primary architectural pillar. It involves engineering software that remains functional and reliable even under active adversity. It focuses on **Security-by-Design**—preventing flaws at the structural level rather than just patching bugs.
 
 **Is this for you?**
@@ -9,10 +16,12 @@ This domain treats security as a primary architectural pillar. It involves engin
 * **The Logic Investigator:** You love hunting for "edge cases" and finding ways to break a system’s logic before an attacker does.
 * **The Automation Engineer:** You want to build "security-as-code" so your system automatically blocks threats during every build.
 
-**Why?**
+## Why
+
 The industry has shifted from reactive security to **Security-by-Design**. Recent trends show that architectural flaws (like those in the **OWASP Top 10:2025**) are now more dangerous than simple coding bugs. In 2026, companies demand engineers who can minimize the "Blast Radius" of a breach and ensure the **durability** of critical data.
 
-**How? (4 Research Tracks)**
+## How (4 Research Tracks)
+
 1.  **Architectural Threat Modeling:** Use the **STRIDE** model on a chosen system. Map data flows and prove how your design mitigates specific risks. 
     * *Quality Criteria:* Attack Surface Density & Trust Boundary isolation.
     * *Source:* [OWASP Threat Modeling](https://owasp.org/www-community/Threat_Modeling)

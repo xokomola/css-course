@@ -131,3 +131,13 @@ views:
       - status
       - type
       - exclude
+  - type: table
+    name: Imported Pages
+    filters:
+      and:
+        - status == "IMPORTED"
+    order:
+      - file.name
+      - status
+      - type
+      - exclude

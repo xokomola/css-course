@@ -36,7 +36,7 @@ Note: Although a hint is given to the DOT framework, we do not expect your time 
 
 Topic suggestions on Canvas
 
-- [[Domain - Cyber Security]]]
+- [[Domain - Cyber Security]]
 - [[Domain - High Performance Engineering]]
 - [[Domain - Agentic Software Engineering]]
 - [[Domain - Data Driven Engineering]]
