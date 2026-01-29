@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/About Core Knowledge.md",
+                "file": "Pages/Semester Planning.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for About Core Knowledge"
+              "title": "Backlinks for Semester Planning"
             }
           },
           {
@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pages/About Core Knowledge.md",
+                "file": "Pages/Semester Planning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of About Core Knowledge"
+              "title": "Outline of Semester Planning"
             }
           }
         ],
@@ -247,12 +247,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "60558c15ffcd8fe6",
+  "active": "258cfad63b2af144",
   "lastOpenFiles": [
+    "Pages/About Core Knowledge.md",
     "Pages/Semester Planning.md",
     "Modules.md",
     "Pages/Teachers Overview.md",
-    "Pages/About Core Knowledge.md",
     "Pages/Monitoring & Logging.md",
     "Pages/Introduction Software Quality.md",
     "Pages/Quality Validation.md",
