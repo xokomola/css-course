@@ -20,7 +20,7 @@ With this insight, create a list of activities for the next sprint to make a ste
 
 ## Engineering Approach 
 
-> You apply an **engineering approach** to create software systems in **progressive steps**, while applying **system thinking** during **informed decision making**.  
+> You apply an **engineering approach** in all your activities to create software systems in **progressive steps**, while applying **system thinking** during **informed decision making**.  
 
 ### Further clarification 
 
@@ -43,7 +43,7 @@ With this insight, create a list of activities for the next sprint to make a ste
 
 ## Software Quality 
 
-> You demonstrate the **sustainable software quality** by systematically addressing both functional and non-functional requirements of a software system, and **continuously validating** system behavior against **well-defined quality** benchmarks.  
+> You demonstrate **sustainable software quality** in all your work, by systematically addressing both functional and non-functional requirements of a software system, and **continuously validating** system behavior against **well-defined quality** benchmarks.  
 
 ### Further clarification 
 
@@ -62,7 +62,7 @@ With this insight, create a list of activities for the next sprint to make a ste
 
 ## Software Maintenance 
 
- > You apply a **maintainable** software delivery process, which is compatible with the current stakeholder's IT organization, and continuously aim for **improving the software development process** itself by applying best practices. 
+ >You apply, in various contexts, a **maintainable** software delivery process, which is compatible with the current stakeholder's IT organization, and continuously aim for **improving the software development process** itself by applying best practices. 
 
 ### Further clarification 
 
