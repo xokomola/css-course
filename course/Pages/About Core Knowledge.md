@@ -32,11 +32,12 @@ Note: Failure is ok, if the first conclusion is that something great can be done
 
 ### core knowledge
 
-Discovering requirements that fit your environment.
-Relevant software architecture knowledge for complex contexts.
-Software Quality Characteristics,  with at least basic knowledge on scalability and security.
-How to maintainable software & deployment environment.
-PO skills like
+- Software Engineering methods & mindset (done)
+- Discovering requirements that fit your environment.
+- Relevant software architecture knowledge for complex contexts.
+- Software Quality Characteristics,  with at least basic knowledge on scalability and security.
+- Maintainable software & deployment environment. 
+- PO Skills  (done)
 
 
 
