@@ -20,7 +20,8 @@ This domain treats security as a primary architectural pillar. It involves engin
 
 The industry has shifted from reactive security to **Security-by-Design**. Recent trends show that architectural flaws (like those in the **OWASP Top 10:2025**) are now more dangerous than simple coding bugs. In 2026, companies demand engineers who can minimize the "Blast Radius" of a breach and ensure the **durability** of critical data.
 
-## How (4 Research Tracks)
+## How 
+Some ideas of possible experiments that can be the starting point of your exploration.
 
 1.  **Architectural Threat Modeling:** Use the **STRIDE** model on a chosen system. Map data flows and prove how your design mitigates specific risks. 
     * *Quality Criteria:* Attack Surface Density & Trust Boundary isolation.
