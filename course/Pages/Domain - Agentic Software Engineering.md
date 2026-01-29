@@ -21,12 +21,13 @@ Moving from AI "Copilots" to autonomous **AI Agents** that take initiative—rea
 
 ## Why
 
-In 2026, the bottleneck is no longer "writing code" but **"managing complexity."** Your value is shifting to **System Orchestrator**, where you maintain the **durability** of a system that is partly built and managed by AI agents.
+In 2026, the bottleneck is no longer "writing code" but **"managing complexity."** Your value is shifting to **System Orchestrator**, where you maintain the **durability** of a system that is partly built and managed by AI agents. By choosing this flavor, you explore the current possibilities and experiment with those.
 
-## How (4 Research Tracks)
+## How
+Some ideas of possible experiments that can be the starting point of your exploration
 
 1.  **Autonomous Maintenance Loops:** Build an agentic pipeline (using *LangGraph*) that monitors build logs, identifies failures, and autonomously submits a **Pull Request (PR)** with the fix.
-    * *Quality Criteria:* Autonomous Fix Rate & Regression Ratio.
+    * *Quality Criteria:* Autonomous Fix Rate & Regression Ratio. 
     * *Source:* [arXiv: Agentic Software Engineering Roadmap](https://arxiv.org/html/2509.06216v1)
 2.  **Agentic QA Discovery:** Engineer an agent whose goal is to "break" your app. Give it UI access and have it discover edge cases not found in your original user stories.
     * *Quality Criteria:* Defect Discovery Yield (Agent-found vs. Human-found).
