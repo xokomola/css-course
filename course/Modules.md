@@ -24,6 +24,7 @@ status: INFO
 - General Information
 	- [[Feedback and FeedPulse]]
 	- [[Available Infrastructure & Tools]]
+	- [[GenAI Usage and Policy]]
 	- Need extra support?
 - Portfolio & Assessment Process
 	- [[Portfolio and Portflow]]
