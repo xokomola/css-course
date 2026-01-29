@@ -19,9 +19,10 @@ Designing applications that fully exploit the advantages of the cloud model—el
 
 ## Why
 
-By 2026, the standard for engineering is understanding the **Platform Engineering** ecosystem. Trends like **Serverless WASM** and **FinOps** demand engineers who can minimize "cloud waste" while maximizing deployment speed and **maintainability**.
+By 2026, the standard for engineering is understanding the **Platform Engineering** ecosystem. Trends like **Serverless WASM** and **FinOps** demand engineers who can minimize "cloud waste" while maximizing deployment speed and **maintainability**. 
 
-## How (4 Research Tracks)
+## How 
+Some ideas of possible experiments that can be the starting point of your exploration.
 
 1.  **Chaos Engineering & Fault Tolerance:** Implement **Circuit Breaker** patterns. Use *Chaos Mesh* to inject latency or kill pods and measure the system's ability to remain functional.
     * *Quality Criteria:* Recovery Time Objective (RTO) & Error Rate during failure.
