@@ -51,6 +51,7 @@ status: INFO
 	- [[Intercultural]]
 	- [[Giving and Receiving Feedback]]
 	- [[Sustainability and Transferability]]
+	- [[Long-term development]]
 - Personal Development
 	- [[Career Development]]
 	- [[Graduation Preparation]]
