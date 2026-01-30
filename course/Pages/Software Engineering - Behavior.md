@@ -5,15 +5,15 @@ exclude: true
 status: REVIEW
 ---
 
-## WHY
+## Why
 
 As a software engineer, you will work in complex environments with a lot of uncertainty (see 'complex software systems'). Therefore, you will need to apply a way of working, which manages this complexity as a software engineer.
 
-## WHAT
+## What
 
 To be on the same page, first let's define what we mean by software engineering. We will use Dave Farley's definition: ‌ Software engineering is the application of an empirical, scientific approach to finding efficient, economic solutions to practical problems in software. Since we are dealing with a lot of uncertainty, both in the domain and the technologies we use, we need to become experts of learning to be able to make justified steps towards a goal and product. And since we are doing this in a complex environment, we need to be able to become experts at managing complexity. This way we can solve problems.
 
-## HOW
+## How
     
 ### Experts of learning ‌ 
 
