@@ -6,27 +6,23 @@ exclude: false
 section: General
 type: Informational
 ---
-This page provides an explanation of the Complex Software Systems semester (30 EC). Its purpose is to give a quick insight into the structure of the semester, the educational vision, the division of roles, and the key moments at which alignment, supervision, and assessment take place. 
-
-%% 
-- ! There is some duplication here, also see [[Semester Planning]]. Structure and content similar to student overview. Refactor?
-%%
+This page provides an explanation of the Complex Software Systems semester (30 EC). Its purpose is to give a quick insight into the structure of the semester, the educational vision, the division of roles, and the key moments at which alignment, supervision, and assessment take place.
 
 ## Purpose and Educational Vision
 
-The Complex Software Systems semester is designed to have students work on authentic, complex software challenges in collaboration with external stakeholders (Partners in Innovation / research groups). 
+The *Complex Software Systems* semester is designed to have students work on authentic, complex software challenges in collaboration with external stakeholders (Partners in Innovation / research groups). 
 
-Core principles: 
+Core principles:  
 
-- Engineering mindset: working in progressive steps with short feedback cycles 
-- Systems thinking: attention to the coherence between architecture, data, processes, and stakeholders 
-- Quality & maintainability as a structural part of design and implementation 
-- Room for individual learning paths through individual experiments (personal flavours) 
+- Engineering mindset: working in progressive steps with short feedback cycles  
+- Systems thinking: attention to the coherence between architecture, data, processes, and stakeholders  
+- Quality & maintainability as a structural part of design and implementation  
+- Room for individual learning paths through individual experiments (personal flavours)  
 
 For lecturers, this means: 
 
 - Focus on process, rationale, and decision-making.  
-- Being a role model in demonstrating core principles in your coaching and if applicable, let students look over the shoulder with your own experimental and research activities. %% PDB: In het kader van 'teach what you preach' , zou ik dit ook willen benadrukken. We hoeven niet bang te zijn om dingen 'voor te zeggen', maar moeten juist op proces niveau een voorbeeld zijn hoe je de core principles kan aanpakken %%
+- Being a role model in demonstrating core principles in your coaching and if applicable, let students look over the shoulder with your own experimental and research activities.
 - Stimulating collaboration and systems thinking 
 - Using feedback as the primary steering instrument 
 - Encouraging students to engage in self-reflection and professional orientation 
@@ -34,8 +30,6 @@ For lecturers, this means: 
 ## Lecturers, Roles, and Responsibilities
 
 Within the semester, three lecturer roles are distinguished. Depending on staffing, roles may be combined.
-
-%% MVG: modified table to normal text with subheadings %%
 
 ### Team Coach
 
@@ -148,46 +142,31 @@ Assessment is holistic and longitudinal. Key principles include: 
 > In previous semesters, students were accustomed to requesting feedback primarily from their assigned coach(es). In this semester, students are expected to actively seek out relevant, additional feedback. 
 > Each student follows a different learning path and therefore needs to consciously consider which expertise is of added value. This skill is taken into account in both supervision and assessment.
 
-## Personal Learning Plan / Development Plan (PLP)
+## Study plan  
 
-Each student starts the semester by creating a Personal Learning Plan (PLP). This plan is part of the portfolio and describes how the student purposefully works toward achieving the learning outcomes, aligned with personal ambitions, starting position, and project context. 
+Study Plan Each student starts the semester by creating a study plan. This plan is part of the portfolio and describes how the student purposefully works toward achieving the learning outcomes, aligned with personal ambitions, starting position, and project context. 
 
-Purpose of the PLP The PLP helps students to: 
+Purpose of the study plan The study plan helps students translate learning outcomes into concrete learning goals and actions, make conscious choices regarding focus, depth, and experimentation, and take ownership of their learning process. It also supports students in collecting and effectively using targeted feedback. 
 
-- translate learning outcomes into concrete learning goals and actions; 
-- make conscious choices regarding focus, depth, and experimentation; 
-- take ownership of their learning process; 
-- collect and effectively use targeted feedback. 
+The study plan is not a static document, but a living development plan that is discussed and refined throughout the semester based on feedback and progressive insight. 
 
-The PLP is not a static document, but a living development plan that is discussed and refined throughout the semester based on feedback and progressive insight. 
+Contents of the study plan A study plan contains at least: 
 
-Contents of the PLP A Personal Learning Plan contains at least: 
+- Starting position: self-assessment per learning outcome (where am I now?) 
+- Learning goals: personal emphases within the semester learning outcomes 
+- Approach and activities: contribution to the group project, the setup of the individual experiments and personal flavours, and learning activities (workshops, self-study, community) 
+- Evidence and products: what do I show in my portfolio, and why? 
+- Feedback strategy: from whom do I request feedback, and when? 
+- Reflection points: how do I evaluate my progress? 
+- Relation to the group project and individual experiments 
 
-- **Starting position**: self-assessment per learning outcome (where am I now?) 
-- **Learning goals**: personal emphases within the semester learning outcomes 
-- **Approach and activities**: contribution to the group project, the setup of the individual experiments and personal flavours, and learning activities (workshops, self-study, community) 
-- **Evidence and products**: what do I show in my portfolio, and why? 
-- **Feedback strategy**: from whom do I request feedback, and when? 
-- **Reflection points**: how do I evaluate my progress? 
-- **Relation to the group project and individual experiments** 
+Role of lecturers Lecturers use the study plan as a conversation tool during coaching sessions and as a reference when providing targeted feedback or assessing choices and evidence in the portfolio. They question students on their rationale and feasibility, help them maintain focus (not everything at once), and view the study plan as guiding rather than contractual. 
 
-Role of lecturers: 
-
-- use the PLP as a conversation tool in coaching sessions; 
-- use it as a reference when providing targeted feedback and as context when assessing choices and evidence in the portfolio; 
-- question students on their rationale and feasibility, and help them focus (not everything at once); 
-- view the PLP as guiding rather than contractual. 
-    
-
-Development throughout the semester The PLP is at minimum: 
-
-- created at the start of the semester; 
-- discussed and refined during the first portfolio review; 
-- adjusted after feedback moments if necessary.
+Development throughout the semester The study plan is created at the start of the semester, discussed and refined during the first portfolio review, and adjusted after feedback moments when necessary.
 
 ## Portfolio & Tools
 
-Students use their portfolio to: 
+Students use their portfolio to:
 
 - document and demonstrate their development; 
 - collect validated professional products; 

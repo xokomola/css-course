@@ -7,13 +7,19 @@ exclude: false
 section: General
 type: Formal
 ---
-During the semester you maintain a personal development plan. This plan helps you and your coaches guide you through this semester. It also forms the basis under coaching meetings.
+During the semester you maintain a *personal development plan*. For everyone this _starts with a study plan_. These planning tools helps you and your coaches guide you through this semester. It also forms the basis under coaching meetings. 
 
-It is short, concise and flexible: it's a tool and not a fixed formal document. We expect you to adapt it regularly and at least every sprint. It is your personal "sprint" planning.
+It is short, concise and flexible: it's a tool and not a fixed formal document. We expect you to adapt it regularly and at least every sprint. It is your personal "sprint" planning. 
 
-You review and update it regularly (at least every sprint).
+You review and update regularly (at least every sprint). 
 
 You can update it using the following questions per project or experiment. You do not have to specify everything from the start but develop it throughout the semester.
+
+%% can we merge the idea of study plan / PDP / reading guide and describe it coherently so that students clearly know what each is and how to work on it %%
+
+## Begin with creating the study plan
+
+Describe how you will work purposefully toward achieving the learning outcomes this semester. Translate the learning outcomes into concrete learning goals, activities, and actions, based on your starting situation, personal ambitions, and project context. Indicate your approach, planned activities and products, how you will gather feedback, and how you will monitor and adjust your progress. The study plan is a living document that you create at the start of the semester and continuously update; it forms the basis of the rest of your personal development plan (portfolio).
 
 ## Questions
 

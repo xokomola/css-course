@@ -131,4 +131,14 @@ With this insight, create a list of activities for the next sprint to make a ste
 
 - You are aware of developments in the field of software engineering and the multiple career paths.  
 - You determine what kind of ICT professional you want to be and adjust your personal development plans, if necessary.  
-- Based on this, you choose and prepare for your future.****
+- Based on this, you choose and prepare for your future.
+
+**Personal Development** 
+
+During the semester you maintain a [[Personal Development Plan]]. For everyone this starts with a study plan. These planning tools helps you and your coaches guide you through this semester. It also forms the basis under coaching meetings. 
+
+It is short, concise and flexible: it's a tool and not a fixed formal document. We expect you to adapt it regularly and at least every sprint. It is your personal "sprint" planning. 
+
+You review and update regularly (at least every sprint). 
+
+You can update it using the following questions per project or experiment. You do not have to specify everything from the start but develop it throughout the semester.

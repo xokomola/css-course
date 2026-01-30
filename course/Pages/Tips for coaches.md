@@ -10,10 +10,6 @@ The idea of this semester is that students work in a complex environment which c
 - unknown domain
 - unknown technologies
 
-%%
-- ! Merge with other topics on Complexity and how to deal with this.
-%%
-
 ## Unknown domain
 
 - working in an unknown domain is achieved by students working on just 1 big project throughout the semester, provided by an external company. Students need to understand the domain itself, the used vocabulary in the domain, and to know which problems they are actually solving.
