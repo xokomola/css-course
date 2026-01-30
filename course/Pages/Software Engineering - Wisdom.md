@@ -1,14 +1,11 @@
 ---
-status: INFO
+status: REVIEW
 publish: true
 exclude: false
 section: Software Engineering
 type: Informational
 ---
-
-How to master the "secret handshake" of professional software engineers? By using the right memes at the right moment. But don't be fooled. Each of these memes resulted from many years of work in the trenches. 
-
-Those that have become teachers can probably show you their battle scars. But to keep things light they often use these nuggets of wisdom. Not as rules to be blindly followed but as guide through unknown territory.
+The following topics do not neatly fit with methods or behavior. They are almost like small memes that contain some opinion or "truth" about software engineering. There are many others. This is just a small sampling of ones that we have heard teachers use occasionally. Maybe they can help you with applying methods or adopting specific behaviors.
 
 ## One does not simply ...
 
@@ -30,10 +27,6 @@ But even after the project has started, during the whole semester, you will ofte
 ![[problem-space-solution-space.png]]
 
 ## Big "R" research and little "r" research
-
-<!--
-https://helen.wilding.name/2024/04/19/from-small-r-research-to-big-r-research-and-back-again/
--->
 
 During your previous semesters you have been introduced to the Dot Framework. You have been asked many times to write research reports. Knowing how to use these is an important skill. What is often not mentioned (or not enough) is the importance of small "r" research.
 
@@ -88,7 +81,7 @@ Most of the methods of reflection boil down to these three questions. When somet
 
 Communication within your team is a key success factor. Your team members are not mind-readers. To work on a project together requires you to make your work visible. 
 
-The [[Software Engineering Methods#Agile|Agile]] approach is based on a pull-based work method and on self-organization.
+The [[Software Engineering - Methods#Agile|Agile]] approach is based on a pull-based work method and on self-organization.
 For this tools such as planning-boards, issue management systems, version control systems, tests, etc. are super useful and platforms like GitHub, GitLab or CodeBerg contain most of what you need to do this succesfully.
 
 An added advantage is that this will automatically leave behind the artefacts or professional products that you can incorporate into your portfolio.

@@ -26,10 +26,5 @@ Quality is perceived through both functional and non-functional requirements of 
 In the Canvas course we provide you with a few starting points to start the exploration and experience the process of working towards a software solution that meets the quality expectations of the customer. 
 
 - [[Determining Quality Constraints]] - In this step you are provided with some ideas how to define your problem domain, understand what the customer needs, what are the most important quality attributes to them, and how to determine the level of quality 
-    
-
 - [[Quality Validation]] - In this step you are provided with some ideas how different types of quality criteria can be validated. 
-    
-
-- ? Where/Bronnen
-- ? wat is a good starting point, reliable material ...
+  

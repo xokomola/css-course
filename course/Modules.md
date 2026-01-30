@@ -24,7 +24,7 @@ status: INFO
 - General Information
 	- [[Feedback and FeedPulse]]
 	- [[Available Infrastructure & Tools]]
-	- [[GenAI Usage and Policy]]
+	- [[Generative AI Usage Guidelines]]
 	- Need extra support?
 - Portfolio & Assessment Process
 	- [[Portfolio and Portflow]]
@@ -38,6 +38,19 @@ status: INFO
     - Final Portfolio Delivery
 - Core Software Engineering
 	- [[About Core Knowledge]]
+	- Software Engineering Approach
+		- [[Software Engineering - Methods]]
+		- [[Software Engineering - Behavior]]
+		- [[Software Engineering - Wisdom]]
+	- Software Maintenance
+		- [[Software Maintenance]]
+		- [[Fitting organizational needs]]
+		- [[DevOps]]
+		- [[Monitoring & Logging]]
+	- Software Quality 
+		- [[Introduction Software Quality]]
+		- [[Determining Quality Constraints]]
+		- [[Quality Validation]]
 - Personal Flavors
 	- [[About Personal Flavors]]
 	- [[Domain - Cyber Security]]
@@ -51,6 +64,7 @@ status: INFO
 	- [[Intercultural]]
 	- [[Giving and Receiving Feedback]]
 	- [[Sustainability and Transferability]]
+	- [[Ethics]]
 	- [[Long-term development]]
 - Personal Development
 	- [[Career Development]]
@@ -58,18 +72,7 @@ status: INFO
 	- [[Setting Goals & Taking Action]]
 - Catch-up Module
 	- [[Catching up module]]
-- Removed pages (these are not included in the Canvas Modules page - summary of the core topics should be included in About Core Knowledge)
+- Unused pages (these are not included in the Canvas Modules page - summary of the core topics should be included in About Core Knowledge)
 	- [[Course Team]]
-	- [[Core Topics]]
-	- [[Long-term development]]
-	- [[Software Engineering Methods]]
-	- [[Generative AI Usage Guidelines]]
-	- [[Ethics]]
-	- [[Software Engineering Wisdom]]
-	- [[Introduction Software Quality]]
-	- [[Determining Quality Constraints]]
-	- [[Quality Validation]]
-	- [[DevOps]]
-	- [[Monitoring & Logging]]
-	- [[Fitting organizational needs]]
+	- [[Course Design Principles (for kickoff)]]
 

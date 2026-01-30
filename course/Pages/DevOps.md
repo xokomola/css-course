@@ -8,10 +8,6 @@ exclude: false
 section: Software Maintenance
 type: Informational
 ---
-%%
-- ! TODO: I included Ema's content on DevOps / SE Core page - Software maintenance - DevOps
-- ! TODO: check heading levels
-%%
 
 In modern software engineering, DevOps is often introduced as a solution to software delivery problems. However it is more valuable to treat DevOps as an umbrella term: a collection of principles, practices, and cultural choices that aim to address recurring problems in software delivery. 
 
@@ -98,10 +94,6 @@ DevOps emphasizes: 
 - logging 
 - user feedback 
 - learning from production behaviour 
-
-%%
-- ! TODO: Observability
-%%
 
 ### Manual, error-prone processes 
 
@@ -210,7 +202,7 @@ Students should be encouraged to: 
 
 DevOps is not the way to build and operate software. It is one response to recurring challenges in modern software engineering. 
 
-## References and further reading 
+## References
 
 - Humble, J., Farley, D. Continuous Delivery [https://continuousdelivery.com/](https://continuousdelivery.com/) 
 - [https://www.manageengine.com/products/service-desk/itsm/what-is-devops-for-beginners.html](https://www.manageengine.com/products/service-desk/itsm/what-is-devops-for-beginners.html) 
