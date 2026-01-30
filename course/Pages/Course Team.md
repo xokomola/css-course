@@ -1,16 +1,6 @@
----
-status: TODO
-publish: true
-exclude: false
-section: General
-type: Formal
----
-These are the people responsible for this course.
 
-- Dennis Cools
-- Frank Coenen
-- Maja Pesic
-- ...
+These are the authors and their roles in this course (see Homepage).
+
 ## Bartosz Paszkowski
 - Course Developer
 - Technical Coach
@@ -43,5 +33,7 @@ These are the people responsible for this course.
 - Expertise 
 ## Saïda Takmenti
 - Course Developer
+- Expertise
 ## Maaike van Doren
 - Course Developer
+- Expertise
