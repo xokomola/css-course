@@ -1,3 +1,7 @@
+---
+status: TODO
+---
+
 We allow and stimulate the use of generative AI in your study [(Fontys ICT GenAI Toolbox)](https://fhict.instructure.com/courses/14338), however we also want you to be transparent on the use of GenAI and set some expectations. This page describes practical guidelines and expactations when you are using GenAI in your study. These are based on the general guidelines in the [Fontys ICT AI Manifesto](https://beleidswiki.fhict.nl/doku.php?id=en:beleid:ai_manifest).   
   
 
