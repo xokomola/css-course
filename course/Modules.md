@@ -29,8 +29,7 @@ status: INFO
 - Portfolio & Assessment Process
 	- [[Portfolio and Portflow]]
 	- Portflow at Fontys ICT (EN)
-	- [[Semester Assessment Process]]
-	- [[Contribution of projects & experiments to your LOs]]
+	- [[Semester Assessment Process]]	- 
 	- [[Portfolio Delivery]]
 	- First Portfolio Delivery
 	- Second Portfolio Delivery
