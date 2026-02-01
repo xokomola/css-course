@@ -5,14 +5,15 @@ exclude: false
 section: General
 type: Formal
 ---
-
-> Copied from https://fhict.instructure.com/courses/8356/pages/portfolio-guidelines?module_item_id=741616
+%%
+Copied from https://fhict.instructure.com/courses/8356/pages/portfolio-guidelines?module_item_id=741616
+%%
 
 During the semester, you will study together with other students and receive feedback on various educational activities, allowing you to adjust your personal development and professional products during the semester. The result of this is combined into a portfolio, which showcases what you have learned and how you were able to apply this knowledge into your projects. The portfolio puts the spotlight on the learning outcomes reached, and shows what next steps you have planned in order to reach the remaining learning outcomes.
 
-In the beginning #foo/bar/baz, you most likely have not gathered much evidence of proficiency on the learning outcome yet, but during the course you keep obtaining more and more and can add them to your portfolio. So, your first version is perhaps rather small and merely shows what you have started on, whereas your final version mentions all pieces of work that you believe are proofs of proficiency. The final version also explains why you believe you have successfully passed this semester on Enterprise Sofware Engineering #foo/bar/x and why you are ready for the next step (either a minor or graduation).
+In the beginning, you most likely have not gathered much evidence of proficiency on the learning outcome yet, but during the course you keep obtaining more and more and can add them to your portfolio. So, your first version is perhaps rather small and merely shows what you have started on, whereas your final version mentions all pieces of work that you believe are proofs of proficiency. The final version also explains why you believe you have successfully passed this semester on Enterprise Sofware Engineering and why you are ready for the next step (either a minor or graduation).
 
-In this page we provide you with some guidelines that you can you can #foo use to put together your portfolio. The portfolio consists of two types of deliverables: a project overview (reading guide) and a collection of professional products.
+In this page we provide you with some guidelines that you can you can use to put together your portfolio. The portfolio consists of two types of deliverables: a project overview (reading guide) and a collection of professional products.
 
 To streamline the process of building up a portfolio and receiving feedback on its contents, we're using the Portfolio Tool in Canvas.
 
