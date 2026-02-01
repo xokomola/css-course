@@ -12,7 +12,7 @@ In the first 8 weeks of the semester inspirational presentations on new concepts
 Presentations and workshops will be announced 1 week ahead.
 
 | Week | sprint | Week Start Date | Individual                                                                                                                  | Group                                                                                                            |
-| ---- | ------ | --------------- | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| ---- | ------ | --------------- |:--------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | 1    |        | 09Feb           | Study course and meet-up with teachers & students; Orientation on Personal Flavors and learning outcomes; Portfolio outline | Project Kick-off; Domain Exploration;<br>Definition Project Problem; Presentation results                        |
 | 2    | 1      | 23Feb           | Gather feedback on initial Personal Development Plan (PDP)                                                                  | Sprint 1 Start; Pitch Project Idea; Formulate central research question for project; Select concepts to 'spike'. |
 | 3    |        | 02Mar           |                                                                                                                             | Discus investigated concepts & follow-up with teachers and others                                                |
@@ -33,6 +33,7 @@ Presentations and workshops will be announced 1 week ahead.
 | 18   |        | 22Jun           | Final Portfolio Delivery<br>                                                                                                | Innovations Insight                                                                                              |
 | 19   |        | 29Jun           | Assessment Talks                                                                                                            | Final Delivery & Transfer                                                                                        |
 | 20   |        | 06Jul           | *free*                                                                                                                      |                                                                                                                  |
+
 ## Meetings explained
 
 **Sprint Review**
