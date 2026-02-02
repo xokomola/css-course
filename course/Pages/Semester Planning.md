@@ -37,19 +37,25 @@ Presentations and workshops will be announced 1 week ahead.
 ## Meetings explained
 
 **Sprint Review**
+
 *Presentation of your work with the customer in focus. In these reviews you aim more at the functional perspective and value for your customer. Your audience are: customer, teachers, and other interested persons with no technical background* 
 
 **Software Design Meeting**
+
 *Groups present to eachother their insights from an architectural perspective on their groupwork. What where import decisions made? Which technologies and concepts have been investigated? Your audience: Felow ICT students and Teachers with a technical background*
 
 **Poster Presentation**
+
 *As a group you present the context of your project, problem statement and intended goals. Audience: Various visitors with and without technical background.* 
 
 **Personal Experiment Showcase**
+
 *As a student you present at least once the outcomes of one of your personal experiments to your fellow students. You share your experiment set-up, ideas, and results. Your audience: Fellow ICT students & Teachers* 
 
 **Graduation Tables**
+
 *These meetings are a preparation towards your graduation project. It gives you the oppurtunity to explore graduation possibilities and hear first hand experiences of graduation students.*
 
 **Innovations Insight**
+
 *End presentation of advanced semester work in TQ and Mindlabs.* 
