@@ -21,7 +21,8 @@ Building **Carbon-Efficient** applications—providing maximum value while consu
 
 In 2026, sustainability is a core non-functional requirement. Large firms are legally required to report **Scope 3 emissions**. This domain introduces **Carbon Awareness** as a critical **durability** factor for the digital future.
 
-## How (4 Research Tracks)
+## How 
+Some ideas of possible experiments that can be the starting point of your exploration.
 
 1.  **Carbon-Aware Scheduling:** Shift non-urgent tasks (like backups) to times when the local grid is powered by renewables using a *Carbon Intensity API*.
     * *Quality Criteria:* Carbon Avoidance % & Task Completion SLO.

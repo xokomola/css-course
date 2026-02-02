@@ -20,7 +20,8 @@ Maximizing system throughput and minimizing latency under heavy load. It moves b
 
 With 8K streaming and real-time AI, generic software is no longer enough. Performance is a core feature. Researching this domain proves you can build **durable** systems that remain responsive during viral traffic spikes.
 
-## How (4 Research Tracks)
+## How 
+Some ideas of possible experiments that can be the starting point of your exploration.
 
 1.  **Latency in Distributed Caching:** Compare Write-through vs. Write-behind using *Redis*. Prototype a multi-tier cache to survive "Cache Stampedes."
     * *Quality Criteria:* P99 Latency (< 50ms) & Cache Hit Ratio.
