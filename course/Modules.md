@@ -47,11 +47,10 @@ status: INFO
 		- [[Fitting organizational needs]]
 	- SOFTWARE QUALITY
 		- [[Introduction Software Quality]]
-		- [[Determining Quality Constraints]]
-		- [[Quality Validation]]
+		-  [[Quality Validation]]
+		- [[Security]]
 	- SOFTWARE MAINTENANCE
 		- [[Software Maintenance]]
-		- [[Fitting organizational needs]]
 		- [[DevOps]]
 		- [[Monitoring & Logging]]
 - Personal Flavors

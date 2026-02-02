@@ -25,6 +25,11 @@ Quality is perceived through both functional and non-functional requirements of 
 
 In the Canvas course we provide you with a few starting points to start the exploration and experience the process of working towards a software solution that meets the quality expectations of the customer. 
 
-- [[Determining Quality Constraints]] - In this step you are provided with some ideas how to define your problem domain, understand what the customer needs, what are the most important quality attributes to them, and how to determine the level of quality 
-- [[Quality Validation]] - In this step you are provided with some ideas how different types of quality criteria can be validated. 
+The concepts presented in the pages below should be studied and determined which specific quality criteria fit with the projects you are working on. 
+
+-  [[Quality Validation]] 
+  *This page gives you some ideas on how  software quality is defined, engineered, and continuously validated in modern software projects. It is not only about tests, but much more.*
+- Security and Scalability
+  *Two important quality aspects that are relevant in many of the projects you will encounter are security and scalability.  There is even a methodology where [[Security]] is integrated in the engineering cycle.*    
+-
   
