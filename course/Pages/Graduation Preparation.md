@@ -45,7 +45,8 @@ Advanced semester or free study area 
 
 ### Graduation 
 
-Enroll in the canvas course [Graduation Preparation](TODO) (link to be added). 
+If you are eligible for graduation in the next semester, you will be automatically enrolled in the Canvas graduation course. If this does not apply to you, please contact the graduation coordinator or your semester coach.
+ 
 In this course you will find four activities:  
 
 1. **Professional focus**. Define your professional profile, reflect on your competencies and update your resume/portfolio.  
