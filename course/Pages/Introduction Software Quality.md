@@ -31,5 +31,12 @@ The concepts presented in the pages below should be studied and determined which
   *This page gives you some ideas on how  software quality is defined, engineered, and continuously validated in modern software projects. It is not only about tests, but much more.*
 - Security and Scalability
   *Two important quality aspects that are relevant in many of the projects you will encounter are security and scalability.  There is even a methodology where [[Security]] is integrated in the engineering cycle.*    
+
+What are important skills to demonstrate finally?
+- You can define those *quality criteria* that are relevant for your project and problem
+- Quality criteria are *specified*, *measurable* and *validated*
+- The proper tools are selected to set-up the environment to measure and validate your specified quality criteria
+- You have clear criteria and trade offs specified for your criteria and test set-ups
+
 -
   
