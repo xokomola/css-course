@@ -30,14 +30,18 @@ This approach demonstrates you are able to assess new knowledge related to your 
 
 Note: Failure is ok, if the first conclusion is that something great can be done with the concepts and the conclusion shows it didn't. Know it  is also valuable information.
 
-### core knowledge
+### **Core knowledge**
 
-- Software Engineering methods & mindset (done)
-- Discovering requirements that fit your environment.
-- Relevant software architecture knowledge for complex contexts.
-- Software Quality Characteristics,  with at least basic knowledge on scalability and security.
-- Maintainable software & deployment environment. 
-- PO Skills  (done)
+We have grouped within this modules three section based on their corresponding learning outcome:
+
+- [The Software Engineering Mindset](https://fhict.instructure.com/courses/15686/pages/the-software-engineering-mindset "The Software Engineering Mindset")
+- [Software Quality](https://fhict.instructure.com/courses/15686/pages/software-quality "Software Quality")
+- [Software Maintenance](https://fhict.instructure.com/courses/15686/pages/software-maintenance "Software Maintenance")
+- [Software Maintenance](https://fhict.instructure.com/courses/15686/pages/software-maintenance-2 "Software Maintenance")
+
+Each of these sections start with a page that provides a set of _core concepts_ that relate to the section. 
+
+What also is assumed _core knowledge_ are the skills in modules: [Professional Standard](https://fhict.instructure.com/courses/15686/modules/123756 "Professional Standard") and [Personal Leadership](https://fhict.instructure.com/courses/15686/modules/123757 "Personal Leadership")
 
 
 

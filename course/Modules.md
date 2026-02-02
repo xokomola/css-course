@@ -38,20 +38,22 @@ status: INFO
 	- Project Handover
 - Core Software Engineering
 	- [[About Core Knowledge]]
-	- Software Engineering Approach
-		- [[Systems Thinking]]
-		- [[Software Engineering - Methods]]
+	- SOFTWARE ENGINEERING
 		- [[Software Engineering - Behavior]]
 		- [[Software Engineering - Wisdom]]
-	- Software Maintenance
+		- [[The Software Engineering Mindset]] 
+		- [[Systems Thinking]]
+		- [[Software Engineering - Methods]]
+		- [[Fitting organizational needs]]
+	- SOFTWARE QUALITY
+		- [[Introduction Software Quality]]
+		- [[Determining Quality Constraints]]
+		- [[Quality Validation]]
+	- SOFTWARE MAINTENANCE
 		- [[Software Maintenance]]
 		- [[Fitting organizational needs]]
 		- [[DevOps]]
 		- [[Monitoring & Logging]]
-	- Software Quality 
-		- [[Introduction Software Quality]]
-		- [[Determining Quality Constraints]]
-		- [[Quality Validation]]
 - Personal Flavors
 	- [[About Personal Flavors]]
 	- [[Domain - Agentic Software Engineering]]
