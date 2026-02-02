@@ -4,6 +4,9 @@ section: Software Maintenance
 ---
 ## Why
 
+> You apply, in various contexts, a **maintainable** software delivery process, which is compatible with the current stakeholder's IT organization, and continuously aim for **improving the software development process** itself by applying best practices.
+
+
 In practice, most software development is not a greenfield development. ‌ Software which fits the purpose of an organisation is actually being used, and lives longer than most people think. But also the world changes, so changes to this existing software need to take place, while the current behavior remains.
 
 ## What
