@@ -1,6 +1,10 @@
 
 ## What
 
+
+> You apply an **engineering approach** in all your activities to create software systems in **progressive steps**, while applying **system thinking** during **informed decision making**.
+
+
 In this semester we want to make a step in fostering your _Software Engineering Mindset_: the application of an empirical, scientific approach to solving practical problems. This discipline goes beyond simply writing code; it focuses on *complexity management* by compartmentalizing massive, uncertain challenges into human-manageable parts. This also requires _system thinking_, where you analyze the invisible dependencies between components, processes, and stakeholders to understand the "Big Picture" rather than just isolated functions.
 
 ## Why
