@@ -24,8 +24,12 @@ Currently running software certainly needs to keep on working as intended while 
 Their findings (The Accelarate book) led to key metrics, which are used to measure and improve the performance of software development teams.
     
 ## How
-
-This means choosing a software development methodology (Agile, XP etc.) to enable engineering practices, setting up an as-automated-as-possible way of delivering software to customers. Measuring the quality of both the products which are delivered, but also measuring the process of software delivery itself, so you can continuously improve it.
+Concepts to demonstrate by the end of the semester:
+- Clearly demonstrating a software development methodology (for example Agile, XP) that fits your project
+- Automation of as much as possible of your development process delivering quality to your customers
+- Measuring the quality of both the products which are delivered, but also measuring the process of software delivery itself, so you can continuously improve it.
+- Know how you can monitor the behavior of your running system to be able to diagnose a production environment
+- Meet the expectations of your stakeholder in delivering the right quality and products to transfer work for future teams.
 
 ## References
 
