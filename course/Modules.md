@@ -39,9 +39,9 @@ status: INFO
 - Core Software Engineering
 	- [[About Core Knowledge]]
 	- SOFTWARE ENGINEERING
+		-  [[The Software Engineering Mindset]] 
 		- [[Software Engineering - Behavior]]
 		- [[Software Engineering - Wisdom]]
-		- [[The Software Engineering Mindset]] 
 		- [[Systems Thinking]]
 		- [[Software Engineering - Methods]]
 		- [[Fitting organizational needs]]
