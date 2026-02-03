@@ -41,10 +41,11 @@ status: INFO
 	- SOFTWARE ENGINEERING
 		-  [[The Software Engineering Mindset]] 
 		- [[Software Engineering - Behavior]]
-		- [[Software Engineering - Wisdom]]
 		- [[Systems Thinking]]
+		- [[Software Engineering - Patterns]]
 		- [[Software Engineering - Methods]]
 		- [[Fitting organizational needs]]
+		- [[Software Engineering - Wisdom]]
 	- SOFTWARE QUALITY
 		- [[Introduction Software Quality]]
 		-  [[Quality Validation]]
