@@ -50,7 +50,6 @@ status: INFO
 	- SOFTWARE QUALITY
 		- [[Introduction Software Quality]]
 		-  [[Quality Validation]]
-		- [[Security]]
 	- SOFTWARE MAINTENANCE
 		- [[Software Maintenance]]
 		- [[DevOps]]

@@ -37,6 +37,7 @@
 ![[Group Challenges]]
 
 ---
+
 ## General Information
 
 ![[Feedback and FeedPulse]]
@@ -74,19 +75,29 @@ Portflow at Fontys ICT (EN)
 
 ---
 
-First Portfolio Delivery
-Second Portfolio Delivery
-Third Portfolio Delivery
-Final Portfolio Delivery
-Project Handover
+- ASSIGNMENT: First Portfolio Delivery
+- ASSIGNMENT: Second Portfolio Delivery
+- ASSIGNMENT: Third Portfolio Delivery
+- ASSIGNMENT: Final Portfolio Delivery
+- ASSIGNMENT: Project Handover
+
+---
 
 ## Core Software Engineering
 
 ![[About Core Knowledge]]
 
 ---
-### Software Engineering Approach
+### Software Engineering
 
+---
+![[The Software Engineering Mindset]]
+
+---
+
+![[Software Engineering - Behavior]]
+
+---
 ![[Systems Thinking]]
 
 ---
@@ -95,20 +106,35 @@ Project Handover
 
 ---
 
-![[Software Engineering - Behavior]]
+![[Fitting organizational needs]]
 
 ---
 
 ![[Software Engineering - Wisdom]]
 
 ---
-### Software Maintenance
 
-![[Software Maintenance]]
+![[Software Engineering - Architecture]]
 
 ---
 
-![[Fitting organizational needs]]
+![[Security]]
+
+---
+
+### Software Quality 
+
+![[Introduction Software Quality]]
+
+---
+
+![[Quality Validation]]
+
+---
+
+### Software Maintenance
+
+![[Software Maintenance]]
 
 ---
 
@@ -118,19 +144,6 @@ Project Handover
 
 ![[Monitoring & Logging]]
 
-### Software Quality 
-
-![[Introduction Software Quality]]
-
----
-
-![[Security]]
-
----
-
-![[Quality Validation]]
-
----
 
 ## Personal Flavors
 
@@ -190,6 +203,10 @@ Project Handover
 
 ## Personal Leadership
 
+![[Personal Development Plan]]
+
+---
+
 ![[Career Development]]
 
 ---
@@ -199,6 +216,8 @@ Project Handover
 ---
 
 ![[Setting Goals & Taking Action]]
+
+---
 
 ## Catch-up Module
 
