@@ -18,18 +18,25 @@ In practice, most software development is not a greenfield development. ‌ Soft
 
 Currently running software certainly needs to keep on working as intended while it's being changed, so monitoring of the behavior is necessary.
 
-- Process
-- Possible future change requests need to be collected and assessed on priority and impact. Also keeping track of what changes are caused by which change are necessary by law or for legal reasons. ‌ DEVOPS is a meanstream process which is specifically aimed at seeing software delivery, and maintaining it while it's running as a whole. Teams having a shared responsibility both in maintaining existing software, and enhancing it with new developments. Automation of activities is key to be able to create predictable outcomes. Since 2014, the [DORA team](https://dora.dev/research/) at google investigates what separates well performing (and happy!) software teams from worse performing teams. 
+- Understanding of the process in both development and the business.
+- Possible future change requests need to be collected and assessed on priority and impact. Also keeping track of what changes are caused by which change are necessary by law or for legal reasons. ‌ *DEVOPS* is a mainstream process which is specifically aimed at seeing software delivery, and maintaining it while it's running as a whole. Teams having a shared responsibility both in maintaining existing software, and enhancing it with new developments. Automation of activities is key to be able to create predictable outcomes. Since 2014, the [DORA team](https://dora.dev/research/) at google investigates what separates well performing (and happy!) software teams from worse performing teams. 
 
 Their findings (The Accelarate book) led to key metrics, which are used to measure and improve the performance of software development teams.
     
 ## How
 Concepts to demonstrate by the end of the semester:
+
+Understanding of ongoing processes in buiseness and development
 - Clearly demonstrating a software development methodology (for example Agile, XP) that fits your project
 - Automation of as much as possible of your development process delivering quality to your customers
+- Your solutions fits with existing processes in the organisation
+
+How to be able to set-up a development process aimed at *maintainability*:
 - Measuring the quality of both the products which are delivered, but also measuring the process of software delivery itself, so you can continuously improve it.
-- Know how you can monitor the behavior of your running system to be able to diagnose a production environment
+- Know techniques for monitoring & logging can contribute to gain insight and improve the behavior of your running systems
 - Meet the expectations of your stakeholder in delivering the right quality and products to transfer work for future teams.
+  
+The page on [[DevOps]] and [[Monitoring & Logging]] gives you some starting point to investigate these. Also have a look at insights of the [DORA team](https://dora.dev/research/).
 
 ## References
 
