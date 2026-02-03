@@ -10,7 +10,7 @@ The structure of this page follows four guiding questions:  
 - Why is architecture driven primarily by non-functional requirements?  
 - How do you design an initial architecture using architectural styles and patterns; and how to best give insight into it? 
 
-## WHAT – What is shaping and building your initial architecture? 
+## What – What is shaping and building your initial architecture? 
 
 Shaping and building your initial architecture means transforming business goals, stakeholder needs, and quality expectations into a coherent technical structure for your application. 
 
@@ -41,7 +41,7 @@ Modern enterprise architectures are typically: 
 
  - Distributed - API-driven - Cloud-native - Automated through CI/CD pipelines 
 
-## WHERE – Where does architecture live? 
+## Where – Where does architecture live? 
 
 Architecture exists at multiple levels: 
 
@@ -64,7 +64,7 @@ Architecture design is not a one-time activity. It continues:  
 
 Architecture is therefore a continuous design activity. 
 
-##  WHY – Why architecture is driven by non-functional requirements (NFRs) 
+##  Why – Why architecture is driven by non-functional requirements (NFRs) 
 
 Functional requirements describe what the system does. Non-functional requirements describe how well the system must work. 
 

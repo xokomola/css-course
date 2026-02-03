@@ -18,7 +18,7 @@ The following pages in this module will give you some starting points in dscover
 - Software Engineering  
     _Start by knowing what this means and what are common practices in the field that are considered engineering work. These pages give you some starting points: [[Software Engineering - Behavior]] [[Software Engineering - Wisdom]]
 - Systems Thinking  
-    _Investigate the concept of [[Systems Thinking]] and discover how this behavior helps you in understanding complexity of systems. See also how it helps in making better architectures that really fit the customer needs and fit with existing systems._ 
+    _Investigate the concept of [[Systems Thinking]] and discover how this behavior helps you in understanding complexity of systems. See also how it helps in making better architectures that really fit the customer needs and fit with existing systems. [[Software Engineering - Architecture]]
 - Complexity Management  
     _Discover specific architectural tactics to handle complexity by aiming for  Modularity, Cohesion, Separation of Concerns, and Information Hiding. [[Software Engineering - Behavior]]
 - Informed Decision Making  
