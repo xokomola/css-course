@@ -10,5 +10,6 @@ Overview pages:
 Obsidian plugins used:
 
 - List Callouts (for coloring list items with a single character, quick notes)
-- Excalidraw (for creating diagrams)
+- Fit (for one button commit to GitHub repository
 
+Install any plugins that you prefer or that the maintainers of the course agree on.
