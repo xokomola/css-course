@@ -13,3 +13,7 @@ Obsidian plugins used:
 - Fit (for one button commit to GitHub repository
 
 Install any plugins that you prefer or that the maintainers of the course agree on.
+
+## Changes
+
+2026-02-08: Completely removed `.obsidian` directory. Test the Fit plugin for one button click commit to GitHub (requires config).
