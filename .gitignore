@@ -5,5 +5,5 @@
 /course/logseq/
 #exclusions for accidentally opening it with IDE
 .idea/
-course/.obsidian/
+/course/.obsidian
 
