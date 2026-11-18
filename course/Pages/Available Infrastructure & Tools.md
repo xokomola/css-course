@@ -6,9 +6,13 @@ Fontys ICT offers several tools and resources.
 
 ## Development Tools
 
-On the [student square](https://portal.fontysict.nl/Studentenplein/SitePages/Student%20Square.aspx) you'll find some software tools like those as: Jetbrains suite, Office 364, Visual Paradigm, etcetera
+On the [student square](https://stichtingfontys.sharepoint.com/sites/029_10/SitePages/en/Student-square.aspx) you'll find some software tools like those as: Jetbrains suite, Office 364, Visual Paradigm, etcetera
 
-Be aware that somethimes companies offer free 1-year tiers to explore their packages. For example Github offers a student version which gives you Pro functionality and Google recently offered a 1-year free tier to Gemini. These are not obligatory tools, but might be interesting for you as a student to explore.
+Be aware that somethimes companies offer free 1-year tiers to explore their packages. For example Github offers a student version which gives you Pro functionality and Google offered last semester a 1-year free tier to Gemini. These are not obligatory tools, but might be interesting for you as a student to explore.
+
+## **GenAI Options**
+
+Via [https://chat.fontysict.nl/Links to an external site.](https://chat.fontysict.nl/) Fontys ICT offers a set of different models for different purposes.
 
 ## Infrastructure
 

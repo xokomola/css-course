@@ -5,7 +5,7 @@ authors:
   - CSS Development Team
 title: Complex Software Systems (CSS)
 subtitle: Course Guide (DRAFT)
-date: 2025-11-12
+date: 2026-11-17
 exclude: true
 status: INFO
 ---
@@ -14,13 +14,15 @@ status: INFO
 	- [[Tips for coaches]]
 	- [[Building a Learning Community]]
 - Semester Information
-	- [[About changes this semester]]
+	- [[What you learn]]
 	- [[How your semester is organized]]
 	- [[Semester Planning]]
 	- [[Group Project & Experiments Explained]]
 	- [[Clarifications Learning Outcomes]]
+	- [[Single Point Rubrics]]
 	- [[Personal Development Plan]]
 	- [[Group Challenges]]
+	- [[Course Update History]]
 - General Information
 	- [[Feedback and FeedPulse]]
 	- [[Available Infrastructure & Tools]]
@@ -36,33 +38,7 @@ status: INFO
 	- Third Portfolio Delivery
 	- Final Portfolio Delivery
 	- Project Handover
-- Core Software Engineering
-	- [[About Core Knowledge]]
-	- SOFTWARE ENGINEERING
-		-  [[The Software Engineering Mindset]] 
-		- [[Software Engineering - Behavior]]
-		- [[Systems Thinking]]
-		- [[Software Engineering - Architecture]]
-		- [[Security]]
-		- [[Software Engineering - Methods]]
-		- [[Fitting organizational needs]]
-		- [[Software Engineering - Wisdom]]
-	- SOFTWARE QUALITY
-		- [[Introduction Software Quality]]
-		-  [[Quality Validation]]
-	- SOFTWARE MAINTENANCE
-		- [[Software Maintenance]]
-		- [[DevOps]]
-		- [[Monitoring & Logging]]
-- Personal Flavors
-	- [[About Personal Flavors]]
-	- [[Domain - Agentic Software Engineering]]
-	- [[Domain - Cloud Native Engineering]]
-	- [[Domain - Cyber Security]]
-	- [[Domain - Data Driven Engineering]]
-	- [[Domain - Green Software Engineering]]
-	- [[Domain - High Performance Engineering]]
-- Professional Standard
+ Professional Standard
 	- [[Applied Research]]
 	- [[Intercultural]]
 	- [[Giving and Receiving Feedback]]
@@ -73,6 +49,36 @@ status: INFO
 	- [[Career Development]]
 	- [[Graduation Preparation]]
 	- [[Setting Goals & Taking Action]]
+- Core Software Engineering
+	- [[About Core Knowledge]]
+	- SOFTWARE ENGINEERING
+		-  [[About - Software Engineering Mindset]] 
+		- [[Software Engineering - Behavior]]
+		- [[Complexity in Software Systems]]
+			- [[Rapid Protyotyping]]
+			- [[Systems Thinking]]
+			- [[Fitting organizational needs]]
+			- [[Software Engineering - Architecture]]		
+		- [[Software Engineering - Wisdom]]
+	- SOFTWARE QUALITY
+		- [[About - Software Quality Control]]
+		- [[Quality Validation]]
+		- [[Quality & System Thinking]]		-  
+		- [[Security]]
+	- SOFTWARE MAINTENANCE
+		- [[About - Software Delivery and Operations]]
+		- [[DevOps]]
+		- [[Monitoring & Logging]]
+		- [[Observability]]
+- Personal Flavors
+	- [[About Personal Experiments]]
+	- [[Domain - Agentic Software Engineering]]
+	- [[Domain - Cloud Native Engineering]]
+	- [[Domain - Cyber Security]]
+	- [[Domain - Data Driven Engineering]]
+	- [[Domain - Green Software Engineering]]
+	- [[Domain - High Performance Engineering]]
+
 - Catch-up Module
 	- [[Catching up module]]
 - Unused pages (these are not included in the Canvas Modules page - summary of the core topics should be included in About Core Knowledge)

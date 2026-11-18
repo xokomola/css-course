@@ -10,7 +10,11 @@
 ---
 ## Semester Information
 
-![[About changes this semester]]
+![[Course Update History]]
+
+---
+
+![[What you learn]]
 
 ---
 
@@ -91,7 +95,7 @@ Portflow at Fontys ICT (EN)
 ### Software Engineering
 
 ---
-![[The Software Engineering Mindset]]
+![[About - Software Engineering Mindset]]
 
 ---
 
@@ -124,7 +128,7 @@ Portflow at Fontys ICT (EN)
 
 ### Software Quality 
 
-![[Introduction Software Quality]]
+![[About - Software Quality Control]]
 
 ---
 
@@ -134,7 +138,7 @@ Portflow at Fontys ICT (EN)
 
 ### Software Maintenance
 
-![[Software Maintenance]]
+![[About - Software Delivery and Operations]]
 
 ---
 
@@ -147,7 +151,7 @@ Portflow at Fontys ICT (EN)
 
 ## Personal Flavors
 
-![[About Personal Flavors]]
+![[About Personal Experiments]]
 
 ---
 

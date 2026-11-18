@@ -1,6 +1,6 @@
 ---
 status: REVIEW
-section: Software Maintenance
+section: Software Delivery and Operations
 ---
 ## Why
 

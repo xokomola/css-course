@@ -14,6 +14,7 @@ type: Informational
 Just like functional software quality, security cannot be "tested in" your application. In modern applications it is good to have some basic knowledge on how security can be focussed on during the software lifecycle.
 
 It is not sufficient to limit your development to only security practices like, for example: _static code analysis, encrypting your data,_ or _pen testing._ Uncovering security issues should be part of your daily work. Finding it late in your development process will probably come with high maintenance costs. 
+
 ## How
 
 A common method used is the security-by-design principle. It recommends that each phase of software development will take into account security related activities. The '[Security Engineering Portal Links to an external site.](https://www.microsoft.com/en-us/securityengineering)' of microsoft also recommend many activities that could be undertaken. Also, organizations like the Dutch '[_center of information security & privacy protection_ Links to an external site.](https://www.cip-overheid.nl/en/category/products/secure-software/)' (CIP) and [OWASP Links to an external site.](https://owasp.org/) provide numerous sources describing examples of activities, guidelines and best practices, that help you to set up your software development lifecycle with security in min.

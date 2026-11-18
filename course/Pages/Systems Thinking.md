@@ -46,8 +46,11 @@ You can demonstrate systems thinking through applying common engineering activit
 3. **Find Communication Patterns:** Decide how parts of your system talk to each other. Should it be direct (Synchronous) or via a message queue (Asynchronous)? This choice changes how the system handles high traffic.
     
 4. **Identify Stakeholders:** Remember that a "system" includes people. How does your architectural choice affect the end-user, the maintenance team, or the business owner?
+    
 
-## A Strategy for Systemic Design: The "Zoom" Method
+How would this kind of information be defined and shared in a project? Probably you recognize what you have been doing in previous semesters for architecture, software design and requirement analysis. In this semester the next step is to connect things together and start analyzing the effects in your system of different choices you can make.
+
+## **A Strategy for Systemic Design: The "Zoom" Method**
 
 When you analyze or design an architecture, don't just dive into the details. Use this three-step strategy to ensure you are thinking systemically.
 

@@ -19,14 +19,13 @@ We believe that basic understanding of the selected concepts and demonstration o
 
 We expect that by the end of the semester everyone has basic understanding of the concepts that are presented in the module *core knowledge*. You should be able to have a basic discussion with your peers on these concepts and you have some demonstration of applying them in practice. This can be either in individual and group work, as long as they are clear personal contributions.
 
-Suggested approach:
-- As a group pick up each sprint at least 2 new concepts to study as a group.
-- Investigate the theoretical base (library strategy). Discuss and share knowledge within your team and with your teachers.
-- Investigate how these new learned concepts might be relevant in the context of the group project. Discuss with your fellow students and teachers if these concepts might contribute to improvement of the project now or on the longterm? 
-- Advice how to continu: Will there be an advice for future work or is there a good chance to create value by further investigating this for the group project.
-- Update your planning if needed
-  
-This approach demonstrates you are able to assess new knowledge related to your problem domain, elaborate your decisions.
+Suggested approach: 
+-  As a group pick up each sprint at least 2 new concepts to study as a group. 
+- Investigate the theoretical base (library strategy). Discuss and share the new knowledge within your team and with your teachers. 
+- Investigate how these new learned concepts might be relevant in the context of the group project. Discuss with your fellow students and teachers if these concepts might contribute to improvement of the project now or on the longterm? - Advice how to continu: Will there be an advice for future work or is there a good chance to create value by further investigating the concept for the group project. 
+- Update your planning if needed. Be aware that a project is not only about filling in functional requirements for your customer. It is also about thinking ahead, creating context in which your project can be developed, and advice customers on possible underpinned opportunities for the longterm.
+
+This approach demonstrates you are able to find and apply new knowledge relevant to your problem domain,  and elaborate on your decisions.
 
 Note: Failure is ok, if the first conclusion is that something great can be done with the concepts and the conclusion shows it didn't. Know it  is also valuable information.
 
@@ -34,10 +33,9 @@ Note: Failure is ok, if the first conclusion is that something great can be done
 
 We have grouped within this modules three section based on their corresponding learning outcome:
 
-- [The Software Engineering Mindset](https://fhict.instructure.com/courses/15686/pages/the-software-engineering-mindset "The Software Engineering Mindset")
-- [Software Quality](https://fhict.instructure.com/courses/15686/pages/software-quality "Software Quality")
-- [Software Maintenance](https://fhict.instructure.com/courses/15686/pages/software-maintenance "Software Maintenance")
-- [Software Maintenance](https://fhict.instructure.com/courses/15686/pages/software-maintenance-2 "Software Maintenance")
+- [About - Software Engineering Mindset](https://fhict.instructure.com/courses/15686/pages/the-software-engineering-mindset "The Software Engineering Mindset")
+- [About - Software Quality Control](https://fhict.instructure.com/courses/15686/pages/software-quality "Software Quality")
+- [About -Software Delivery and Operations](https://fhict.instructure.com/courses/15686/pages/software-maintenance "Software Maintenance")
 
 Each of these sections start with a page that provides a set of _core concepts_ that relate to the section. 
 

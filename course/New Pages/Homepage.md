@@ -23,7 +23,7 @@ In this software systems the _quality of the system_ takes the most attentions o
 
 In this semester we will learn how to design, implement and validate a high quality complex software systems according to the industry best practices. The measurable qualities of the system will be expressed in non-functional requirements as set by stakeholders.
 
-In this semester, we will use a strategy of research based learning. Students will be challenged to solve a real world problem with real world stakeholders and have to perform research in order to tackle this problem. The complex context of the problem is essential to learn how to solve real world problems based on industry best practices.
+In this semester, you practice with performing applied research comparable to the final graduation expectations. Students will be challenged to work on a real world problem with real world stakeholders. By following an engineering approach, possible solutions for the projects are worked out and validated in an iterative approach. The complex context of the problem is essential to learn how to solve real world problems based on industry best practices. 
 
 - [[Semester Planning]]
 - [[Course Team]]

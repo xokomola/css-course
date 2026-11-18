@@ -12,59 +12,93 @@ Students’ Overview – Complex Software Systems This page provides an explana
 
 ## Purpose and Educational Vision
 
-The  *Complex Software Systems* semester is designed to have students work on authentic, complex software challenges in collaboration with external stakeholders (clients such as Partners in Innovation and research groups). 
+The  _Complex Software Systems_ semester is designed to have students work on authentic, complex software challenges in collaboration with external stakeholders (clients such as Partners in Innovation and research groups). 
 
-Core principles: 
+In this semester we let you explore how to develop towards operational and high quality software systems in environments that have essential- or accidental complexity. To manage this complexity we want you to grow your engineering mindset, investigate how you control your software quality during development, and how you can continuously monitor & improve your processes and software in an operational environment.
 
-- Engineering mindset: working in progressive steps with short feedback cycles
-- Systems thinking: attention to the coherence between architecture, data, processes, and stakeholders 
-- Quality & maintainability as a structural part of design and implementation 
-- Room for individual learning paths through individual experiments (personal flavours) 
+This leads to core principles like: 
 
+- Engineering mindset: working in progressive steps with short feedback cycles    
+- Systems thinking: attention to the coherence between architecture, data, processes, and stakeholders; where quality criteria and boundary conditions lead your choices.    
+- Ability to control your development and operational software system by measurable quality criteria.    
+- Enable continuous improvement of your development process and operational software systems.
+- Room for individual learning, through individual experiments (personal flavours)   
+      
 What we want you to learn and demonstrate is how you: 
 
-- professionally approach complex software problems 
-- collaborate effectively within a team and with external stakeholders 
-- make well-considered choices regarding architecture, quality, and maintainability 
-- demonstrate areas in which you want to specialize further (your personal flavour) 
-- critically reflect on your own growth and decisions 
+- professionally approach complex software problems    
+- collaborate effectively within a team and with external stakeholders     
+- make well-considered choices regarding architecture, quality, and maintainability     
+- demonstrate areas in which you want to specialise further (your personal flavour)     
+- critically reflect on your own growth and decisions
 
-## Semester Structure 
+## **Semester Structure**
 
 The semester consists of two parallel learning activities: 
 
-- Group Project (GP) – the main time investment 
-- Individual Experiments (IE / Personal Flavours) – deepening or broadening 
+- Group Project (GP) – Worked on during the scheduled days at school
+- Individual Experiments (IE / Personal Flavours) – Worked on individually: at home and at school
 
-For the group project, you will work in a team of 4–6 students on an authentic assignment from an external stakeholder. There you: apply an Agile way of working, focus on both functional and non-functional requirements and on a combination of implementation, research, and advisory work. The group project will also be the place where you study the *core software engineering concepts* and skills as a group and investigate and/or advice on  how what you've learned can improve (parts of) the project or the way how you develop and maintain the project.
+### Group project
 
-For the *personal experiment*, you will deepen your *core software engineering* skills and make individual competencies visible. It is also a way to further personalize the educational program and align it with your personal preferences, for example through experimentation via rapid prototyping in a domain of your choice.
+In this project, you will work in teams (3-6 students) on  an authentic assignment for an external stakeholder. Using Agile methodologies, you will develop a software solution that effectively addresses the stakeholder's needs.
 
-It is important that you make your choices consciously and can explain them in your portfolio. Therefore, substantiate what you do and make clear what it delivers. Discuss this with your lecturers, fellow students, and the client. In this way, you develop the knowledge, skills, and professional attitude as described in the learning outcomes and apply them in practice. Workshops, community activities, and fixed feedback moments support you in this development. From lecturers you can expect that they: 
+Your goal is to deliver a product that is not only functional but also valuable, maintainable, and transferable. This requires you to focus on the entire development ecosystem, including robust processes, development environments, measurable quality, and tooling, to ensure the final product can be truly operational and sustainable.
 
-- help formulate research questions 
-- stimulate collaboration (within the group, with the client, and with other project teams) 
-- challenge architectural and quality-related choices 
-- validate intermediate products for the portfolio 
-- provide feedback on process and reflection (not only on the end result), covering both technical and professional (learning) skills 
+Furthermore, this project serves as a case study for applying the core software engineering concepts mentioned in the learning outcomes. As a team, you will research these concepts and determine how to integrate them directly into your development workflow or use them to provide actionable improvements for the stakeholder. We recommend incorporating this research into your first three sprints; this will help you build the necessary expertise to successfully deliver a solution that is valuable, maintainable, and transferable.
 
-The semester is divided into sprints of approximately three weeks. The exact planning is aligned by each project group with the client and coaches.  
+### Individual Experiments
 
-## Important moments during this semester: 
+In these experiments, you will explore topics aligned with your personal interests and engage in rapid prototyping within your chosen domain. You will set-up a re-usable development environment that supports automated deployment, execution, and reporting & monitoring, allowing you to demonstrate that your project meets its defined quality criteria.
 
-- *Sprint reviews* & demos for stakeholders (every 3 weeks) 
-- *Software design meetings* within and between project groups 
-- *Portfolio assessments*: 
-	- Weeks 4–6 
-	- Weeks 10–12 
-	- Weeks 16–17 
+### Semester Sprints
+
+The semester is divided into sprints, with a default length of three weeks. The exact planning can be aligned by each project group with the client and coaches.  
+
+Make sure you define each sprint work that addresses:
+
+- group project research  
+    _Investigate core concepts as a group from one of the learning outcomes, and how they will be integrated in the group project. Can it contribute directly to your project or would it be analysis, design -> advice?_
+- group project realisation  
+    _Which functional, non-functional, extension to your development environment or processes are addressed in this sprint?_ 
+- What will you do this sprint related to your individual experiments  
+      
+    
+
+### Make your choices visible
+
+It is important that you make your choices consciously and can explain them in your portfolio. Therefore, substantiate what you do and make clear what it delivers. Discuss this with your lecturers, fellow students, and the client. In this way, you develop the knowledge, skills, and professional attitude as described in the learning outcomes and apply them in practice. Workshops, community activities, and fixed feedback moments support you in this development.
+
+From lecturers you can expect that they: 
+
+- Help formulate research questions
+- Stimulate collaboration (within the group, with the client, and with other project teams)
+- Challenge architectural and quality-related choices
+- Validate intermediate products for the portfolio
+- Provide feedback on process and reflection (not only on the end result), covering both technical and professional (learning) skills 
+
+**Tip** You might log your major decisions you make in any of your semester work into a _(architectural) **decision record**._ These records can be used as a starting point in the discussions or feedback moments with your lecturers. 
+
+## **Important moments during this semester:**
+
+- _Sprint reviews_ & demos for stakeholders (every 3 weeks) 
+- _Software design meetings_ within and between project groups 
+- _Portfolio assessments_: 
+    - Weeks 4–6 
+        
+    - Weeks 9–11 
+        
+    - Weeks 15–16 
+        
 - Community events: 
-	- Poster presentation (approx. week 9) 
-	- Personal experiment showcases (second half of the semester) 
-	- Innovation Insights (end of semester) 
-- Calibration moments between lecturers (including assessment and intercultural competences) 
+    - Poster presentation (approx. week 9) 
+        
+    - Personal experiment showcases (second half of the semester) 
+        
+    - Innovation Insights (end of semester) 
+        
 
-For a full semester planning see: [[Semester Planning]]
+For a full semester planning see: [Semester Planning](https://fhict.instructure.com/courses/15686/pages/semester-planning "Semester Planning")
 
 ## Assessment 
 
